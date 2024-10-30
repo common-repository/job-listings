@@ -1,0 +1,1 @@
+<input type="radio" name="<?php echo esc_attr( $field_id ); ?>" value="<?php echo esc_attr( $key ); ?>" <?php echo $class; ?> <?php echo esc_attr( $checked ); ?> ><?php echo esc_html( $label ); ?><br/>

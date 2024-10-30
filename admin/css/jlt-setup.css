@@ -1,0 +1,67 @@
+#jlt_tools {
+  width: 99%;
+}
+#jlt_tools .item_tools {
+  background: #fff;
+  padding: 6px;
+  cursor: pointer;
+}
+#jlt_tools .item_tools:before {
+  content: "→";
+}
+#jlt_tools .item_tools:hover {
+  font-weight: bold;
+}
+#jlt_tools .jlt_hide {
+  display: none;
+  background: #fff;
+  padding: 10px;
+  margin-top: 15px;
+}
+#jlt_tools .jlt_hide .item {
+  width: 32%;
+  position: relative;
+  text-align: center;
+  float: left;
+  border: 1px solid #ddd;
+  margin: 5px;
+}
+#jlt_tools .jlt_hide .item .button-install {
+  display: none;
+  position: absolute;
+  top: 45%;
+  left: 40%;
+}
+#jlt_tools .jlt_hide .item img {
+  max-width: 100%;
+}
+#jlt_tools .jlt_hide .item .item_footer {
+  border: 1px solid #ddd;
+  padding: 8px 20px;
+}
+#jlt_tools .jlt_hide .item .item_footer .more-detail {
+  float: left;
+}
+.jlt-load-ajax{
+    background-image: url("../images/spinner.gif");
+    bottom: 0;
+    height: 48px;
+    width: 125px;
+    opacity: 0;
+    position: absolute;
+    right: 0;
+    background-repeat: no-repeat;
+    background-size: 30px;
+    background-position: center center;
+    border-left: 1px solid rgba(0, 0, 0, 0.05);
+    background-color: #FAFAFA ;
+}
+.jlt-load-show{
+    opacity: 1;
+    z-index: 22;
+}
+.jlt-setup-page-table span.error {
+    color: #f1322f;
+}.jlt-setup-page-table span.yes {
+    color: #7ad03a;
+}

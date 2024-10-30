@@ -1,0 +1,4090 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Job Listings "
+"v1.0.0\n"
+"POT-Creation-Date: 2017-05-23 "
+"09:03+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your Name "
+"<you@example.com>\n"
+"Language-Team: NooTheme "
+"<info@nootheme.com>\n"
+"Report-Msgid-Bugs-To: Translator "
+"Name <translations@example.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; "
+"charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n !"
+"= 1;\n"
+"X-Textdomain-Support: yesX-"
+"Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;"
+"esc_html_e;esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-jlt-admin.php:89
+msgid "January"
+msgstr ""
+
+#: admin/class-jlt-admin.php:90
+msgid "February"
+msgstr ""
+
+#: admin/class-jlt-admin.php:91
+msgid "March"
+msgstr ""
+
+#: admin/class-jlt-admin.php:92
+msgid "April"
+msgstr ""
+
+#: admin/class-jlt-admin.php:93
+msgid "May"
+msgstr ""
+
+#: admin/class-jlt-admin.php:94
+msgid "June"
+msgstr ""
+
+#: admin/class-jlt-admin.php:95
+msgid "July"
+msgstr ""
+
+#: admin/class-jlt-admin.php:96
+msgid "August"
+msgstr ""
+
+#: admin/class-jlt-admin.php:97
+msgid "September"
+msgstr ""
+
+#: admin/class-jlt-admin.php:98
+msgid "October"
+msgstr ""
+
+#: admin/class-jlt-admin.php:99
+msgid "November"
+msgstr ""
+
+#: admin/class-jlt-admin.php:100
+msgid "December"
+msgstr ""
+
+#: admin/class-jlt-admin.php:102
+msgid "Sunday"
+msgstr ""
+
+#: admin/class-jlt-admin.php:103
+msgid "Monday"
+msgstr ""
+
+#: admin/class-jlt-admin.php:104
+msgid "Tuesday"
+msgstr ""
+
+#: admin/class-jlt-admin.php:105
+msgid "Wednesday"
+msgstr ""
+
+#: admin/class-jlt-admin.php:106
+msgid "Thursday"
+msgstr ""
+
+#: admin/class-jlt-admin.php:107
+msgid "Friday"
+msgstr ""
+
+#: admin/class-jlt-admin.php:108
+msgid "Saturday"
+msgstr ""
+
+#: admin/class-jlt-admin.php:120
+#: includes/admin/class-jlt-cpt.php:186
+#: includes/admin/class-jlt-cpt.php:232
+#: includes/libs/meta-boxes/generate-meta-box.php:287
+#: includes/libs/meta-boxes/generate-meta-box.php:351
+#: includes/libs/settings.php:213
+#: includes/libs/settings.php:259
+msgid "Select Image"
+msgstr ""
+
+#: admin/class-jlt-admin.php:121
+msgid "Insert image"
+msgstr ""
+
+#: includes/addons/addon-display.php:9
+msgid "Add-ons"
+msgstr ""
+
+#: includes/addons/addon-display.php:11
+msgid "Update list"
+msgstr ""
+
+#: includes/addons/addon-display.php:14
+msgid "Plugins list"
+msgstr ""
+
+#: includes/addons/addon-display.php:65
+msgid "Not Active"
+msgstr ""
+
+#: includes/addons/addon-display.php:71
+msgid "Deactivate"
+msgstr ""
+
+#: includes/addons/addon-display.php:77
+msgid "Active"
+msgstr ""
+
+#: includes/addons/addon-display.php:83
+msgid "Not Installed"
+msgstr ""
+
+#: includes/addons/addon-display.php:90
+msgid "Add-on locked"
+msgstr ""
+
+#: includes/addons/addon-display.php:105
+msgid "Installed Version"
+msgstr ""
+
+#: includes/addons/addon-display.php:112
+msgid "Available Version"
+msgstr ""
+
+#: includes/addons/addon-display.php:125
+msgid "Up to date"
+msgstr ""
+
+#: includes/addons/addon-display.php:129
+msgid "Update Now"
+msgstr ""
+
+#: includes/addons/addon-display.php:137
+msgid "Buy now"
+msgstr ""
+
+#: includes/addons/addon-display.php:141
+msgid "Register Job Listings"
+msgstr ""
+
+#: includes/addons/addon-display.php:155
+msgid "Activate Plugin"
+msgstr ""
+
+#: includes/addons/addon-display.php:166
+msgid ""
+"Currently there are no addons. We "
+"will update soon."
+msgstr ""
+
+#: includes/addons/class-addons.php:82
+#: includes/addons/class-addons.php:129
+#: includes/addons/class-addons.php:151
+msgid ""
+"Security Breach! Please contact "
+"admin!"
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:45
+msgid "Application Information"
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:52
+#: includes/admin/class-jlt-application.php:314
+#: includes/class-jlt-activator.php:55
+#: includes/class-jlt-member.php:382
+#: includes/email/template_fields.php:50
+#: includes/email/template_fields.php:124
+#: includes/email/template_fields.php:140
+#: includes/email/template_fields.php:157
+#: includes/member/candidate-custom-fields.php:43
+#: templates/member/manage-application.php:119
+msgid "Candidate"
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:58
+msgid "Contact Email"
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:63
+#: includes/application/application-default-fields.php:7
+#: templates/member/manage-approve-reject.php:44
+msgid "Message"
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:89
+#: includes/job/init.php:23
+#: includes/job/job-custom-fields.php:91
+msgid "Job"
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:96
+msgid "Apply for Job"
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:144
+#: includes/admin/class-jlt-application.php:203
+msgid "Guest user"
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:178
+msgid "Select Job"
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:212
+msgid "Candidate name"
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:221
+#: includes/admin/class-jlt-application.php:224
+msgid "Job application updated."
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:222
+#: includes/job/admin-job-edit.php:13
+msgid "Custom field updated."
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:223
+#: includes/job/admin-job-edit.php:14
+msgid "Custom field deleted."
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:226
+msgid "Job application published."
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:227
+msgid "Job application saved."
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:228
+msgid "Job application submitted."
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:230
+msgid "Job application draft updated."
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:238
+#: includes/admin/class-jlt-application.php:772
+msgid "Approved"
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:253
+msgid "All jobs"
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:269
+msgid "All Candidates"
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:313
+#: includes/email/setting_templates.php:125
+#: includes/job/admin-job-list.php:209
+#: templates/member/manage-application.php:121
+#: templates/member/manage-job-applied.php:35
+#: templates/member/manage-job.php:86
+msgid "Status"
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:315
+msgid "Job applied for"
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:316
+#: includes/application/application-default-fields.php:18
+#: templates/member/manage-job-applied.php:34
+msgid "Attachment"
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:317
+#: includes/job/admin-job-list.php:204
+msgid "Posted"
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:318
+#: includes/job/admin-job-list.php:215
+msgid "Actions"
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:333
+#: includes/admin/class-jlt-application.php:736
+#: includes/admin/class-jlt-application.php:775
+#: includes/application/functions.php:78
+#: includes/forms/class-jlt-form-application.php:512
+#: includes/job/admin-job-list.php:320
+#: includes/job/functions.php:103
+#: includes/job/init.php:117
+#: templates/member/manage-job-applied.php:59
+msgid "Inactive"
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:340
+#: includes/job/admin-job-list.php:237
+#, php-format
+msgid "ID: %d"
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:362
+#: templates/member/manage-job-applied.php:101
+msgid "LinkedIn profile"
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:386
+msgid "by a Guest"
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:386
+#: includes/job/admin-job-list.php:263
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:395
+#: includes/admin/class-jlt-company.php:85
+#: includes/job/admin-job-list.php:340
+#: includes/job/init.php:29
+msgid "View"
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:401
+#: includes/job/admin-job-list.php:356
+#: includes/job/functions.php:116
+#: includes/libs/custom-fields/custom-fields.php:181
+#: includes/libs/custom-fields/custom-fields.php:388
+#: templates/member/manage-application.php:59
+msgid "Delete"
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:423
+#: includes/admin/class-jlt-application.php:698
+msgid "Job Application"
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:440
+#: includes/admin/setup-install.php:448
+msgid "General Options"
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:445
+msgid "Enable custom application link"
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:451
+#: includes/admin/class-jlt-company.php:322
+#: includes/job/admin-job-list.php:291
+#: includes/job/job-custom-fields-package.php:152
+msgid "No"
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:455
+msgid "Yes, on the dashboard"
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:459
+msgid ""
+"Yes, on both dashboard and frontend"
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:466
+msgid "Application Approve Title"
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:476
+msgid "Application Approve Message"
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:486
+msgid "Application Reject Title"
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:496
+msgid "Application Reject Message"
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:697
+msgid "Job Applications"
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:699
+msgid "Add New Application"
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:700
+msgid "Add Job Application"
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:701
+#: includes/admin/class-jlt-application.php:702
+msgid "Edit Job Application"
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:703
+msgid "New Job Application"
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:704
+#: includes/admin/class-jlt-application.php:705
+msgid "View Job Application"
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:706
+msgid "Search Job Application"
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:707
+msgid "No Job Applications found"
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:708
+msgid ""
+"No Job Applications found in Trash"
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:709
+msgid "Parent Job Application"
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:711
+msgid ""
+"This is the place where you can edit "
+"and view job applications."
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:727
+#: includes/admin/class-jlt-application.php:773
+msgid "Rejected"
+msgstr ""
+
+#: includes/admin/class-jlt-application.php:732
+#, php-format
+msgid ""
+"Rejected <span class=\"count\">(%s)</"
+"span>"
+msgid_plural ""
+"Rejected <span class=\"count\">(%s)</"
+"span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/class-jlt-application.php:741
+#: includes/job/init.php:122
+#, php-format
+msgid ""
+"Inactive <span class=\"count\">(%s)</"
+"span>"
+msgid_plural ""
+"Inactive <span class=\"count\">(%s)</"
+"span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/class-jlt-application.php:774
+msgid "Pending"
+msgstr ""
+
+#: includes/admin/class-jlt-company.php:76
+#: includes/admin/class-jlt-company.php:78
+#: includes/admin/class-jlt-company.php:79
+msgid "Companies"
+msgstr ""
+
+#: includes/admin/class-jlt-company.php:77
+#: includes/admin/class-jlt-company.php:357
+#: includes/job/admin-job-edit.php:86
+msgid "Company"
+msgstr ""
+
+#: includes/admin/class-jlt-company.php:80
+msgid "Add New"
+msgstr ""
+
+#: includes/admin/class-jlt-company.php:81
+msgid "Add Company"
+msgstr ""
+
+#: includes/admin/class-jlt-company.php:82
+#: includes/job/admin-job-list.php:348
+#: includes/job/init.php:26
+msgid "Edit"
+msgstr ""
+
+#: includes/admin/class-jlt-company.php:83
+msgid "Edit Company"
+msgstr ""
+
+#: includes/admin/class-jlt-company.php:84
+msgid "New Company"
+msgstr ""
+
+#: includes/admin/class-jlt-company.php:86
+#: templates/job/job-company.php:55
+msgid "View Company"
+msgstr ""
+
+#: includes/admin/class-jlt-company.php:87
+msgid "View Company Listings"
+msgstr ""
+
+#: includes/admin/class-jlt-company.php:88
+msgid "Search Company"
+msgstr ""
+
+#: includes/admin/class-jlt-company.php:89
+msgid "No Companies found"
+msgstr ""
+
+#: includes/admin/class-jlt-company.php:90
+msgid "No Companies found in Trash"
+msgstr ""
+
+#: includes/admin/class-jlt-company.php:107
+msgid "Companies Page"
+msgstr ""
+
+#: includes/admin/class-jlt-company.php:125
+msgid ""
+"You are currently editing the page "
+"that shows all your companies."
+msgstr ""
+
+#: includes/admin/class-jlt-company.php:147
+msgid "Company Information"
+msgstr ""
+
+#: includes/admin/class-jlt-company.php:211
+msgid "Job Package"
+msgstr ""
+
+#: includes/admin/class-jlt-company.php:233
+#: includes/admin/class-jlt-company.php:331
+#: includes/admin/class-jlt-company.php:342
+msgid "N/A"
+msgstr ""
+
+#: includes/admin/class-jlt-company.php:240
+msgid "Plan"
+msgstr ""
+
+#: includes/admin/class-jlt-company.php:248
+#: includes/admin/class-jlt-company.php:346
+#: includes/job/job-apply-resume-package.php:120
+msgid "Unlimited"
+msgstr ""
+
+#: includes/admin/class-jlt-company.php:248
+#: includes/admin/class-jlt-company.php:259
+#: includes/admin/class-jlt-company.php:269
+#: includes/job/job-apply-resume-package.php:123
+#, php-format
+msgid "%d job"
+msgid_plural "%d jobs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/class-jlt-company.php:254
+#: includes/job/admin-settings.php:208
+msgid "Job Limit"
+msgstr ""
+
+#: includes/admin/class-jlt-company.php:258
+msgid "Job Added"
+msgstr ""
+
+#: includes/admin/class-jlt-company.php:259
+msgid "0 job"
+msgstr ""
+
+#: includes/admin/class-jlt-company.php:262
+msgid "Job Duration"
+msgstr ""
+
+#: includes/admin/class-jlt-company.php:263
+#, php-format
+msgid "%s day"
+msgid_plural "%s days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/class-jlt-company.php:268
+msgid "Featured Job limit"
+msgstr ""
+
+#: includes/admin/class-jlt-company.php:271
+#: includes/job/job-apply-resume-package.php:125
+#, php-format
+msgid "( %d remain )"
+msgstr ""
+
+#: includes/admin/class-jlt-company.php:281
+#: templates/member/company_profile.php:40
+msgid "Company Name"
+msgstr ""
+
+#: includes/admin/class-jlt-company.php:297
+msgid "Is Company Featured?"
+msgstr ""
+
+#: includes/admin/class-jlt-company.php:297
+#: includes/job/admin-job-list.php:207
+msgid "Featured?"
+msgstr ""
+
+#: includes/admin/class-jlt-company.php:298
+msgid "Membership Package"
+msgstr ""
+
+#: includes/admin/class-jlt-company.php:299
+msgid "Job Count"
+msgstr ""
+
+#: includes/admin/class-jlt-company.php:317
+#: includes/job/admin-job-list.php:287
+msgid "Toggle featured"
+msgstr ""
+
+#: includes/admin/class-jlt-company.php:320
+#: includes/job/admin-job-list.php:289
+#: includes/job/job-custom-fields-package.php:152
+#: includes/libs/custom-fields/custom-fields.php:178
+#: includes/libs/custom-fields/custom-fields.php:376
+msgid "Yes"
+msgstr ""
+
+#: includes/admin/class-jlt-company.php:346
+#, php-format
+msgid "%s of %s"
+msgstr ""
+
+#: includes/admin/class-jlt-company.php:368
+msgid "Company Options"
+msgstr ""
+
+#: includes/admin/class-jlt-company.php:373
+msgid "Companies Archive base (slug)"
+msgstr ""
+
+#: includes/admin/class-jlt-company.php:383
+msgid "Number Job Per Page"
+msgstr ""
+
+#: includes/admin/class-jlt-company.php:389
+msgid ""
+"Enter -1 to show all job without "
+"pagination."
+msgstr ""
+
+#: includes/admin/class-jlt-company.php:394
+msgid "Show Company Map"
+msgstr ""
+
+#: includes/admin/class-jlt-cpt.php:83
+#: includes/class-jlt.php:314
+#: includes/common/dashboard.php:9
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/class-jlt-cpt.php:187
+#: includes/libs/meta-boxes/generate-meta-box.php:290
+#: includes/libs/settings.php:214
+msgid "Clear Image"
+msgstr ""
+
+#: includes/admin/class-jlt-cpt.php:208
+#: includes/libs/meta-boxes/generate-meta-box.php:312
+#: includes/libs/settings.php:235
+msgid "Select or Upload your Image"
+msgstr ""
+
+#: includes/admin/class-jlt-cpt.php:210
+#: includes/job/job-default-fields.php:18
+#: includes/job/job-default-fields.php:32
+#: includes/job/job-default-fields.php:68
+#: includes/libs/custom-fields/custom-fields.php:12
+#: includes/libs/meta-boxes/generate-meta-box.php:243
+#: includes/libs/meta-boxes/generate-meta-box.php:314
+#: includes/libs/settings.php:237
+msgid "Select"
+msgstr ""
+
+#: includes/admin/class-jlt-cpt.php:222
+#: includes/libs/meta-boxes/generate-meta-box.php:287
+#: includes/libs/meta-boxes/generate-meta-box.php:340
+#: includes/libs/settings.php:249
+msgid "Change Image"
+msgstr ""
+
+#: includes/admin/class-jlt-cpt.php:301
+#: includes/common/dashboard.php:38
+#: includes/common/dashboard.php:67
+msgid "Save Changes"
+msgstr ""
+
+#: includes/admin/setup-install.php:82
+#: includes/admin/setup-install.php:300
+#: includes/admin/setup-install.php:339
+msgid "Done"
+msgstr ""
+
+#: includes/admin/setup-install.php:112
+#, php-format
+msgid "Welcome to %s,"
+msgstr ""
+
+#: includes/admin/setup-install.php:114
+msgid ""
+"If it is the first time you install "
+"this plugin, you should go and check "
+"the basic setting."
+msgstr ""
+
+#: includes/admin/setup-install.php:118
+msgid "Go to Quick Setup"
+msgstr ""
+
+#: includes/admin/setup-install.php:122
+msgid "Skip Setup"
+msgstr ""
+
+#: includes/admin/setup-install.php:147
+#: includes/common/dashboard.php:11
+msgid "Quick Setup"
+msgstr ""
+
+#: includes/admin/setup-install.php:175
+msgid "Cancel"
+msgstr ""
+
+#: includes/admin/setup-install.php:191
+#: includes/admin/setup-install.php:192
+msgid "Required Pages"
+msgstr ""
+
+#: includes/admin/setup-install.php:201
+#: includes/class-jlt-member.php:886
+#: templates/member/user-menu.php:18
+msgid "Member"
+msgstr ""
+
+#: includes/admin/setup-install.php:205
+msgid ""
+"The main page for all the action of "
+"Employer and Candidate"
+msgstr ""
+
+#: includes/admin/setup-install.php:213
+#: includes/member/action_control.php:12
+msgid "Post Job"
+msgstr ""
+
+#: includes/admin/setup-install.php:217
+msgid "The page for Job posting"
+msgstr ""
+
+#: includes/admin/setup-install.php:283
+msgid "Missing setting"
+msgstr ""
+
+#: includes/admin/setup-install.php:285
+#: includes/admin/setup-install.php:293
+msgid "Wrong"
+msgstr ""
+
+#: includes/admin/setup-install.php:287
+#: includes/admin/setup-install.php:289
+#, php-format
+msgid "Page should contains %s"
+msgstr ""
+
+#: includes/admin/setup-install.php:294
+#, php-format
+msgid "Page should have template %s"
+msgstr ""
+
+#: includes/admin/setup-install.php:297
+msgid "Wrong Page"
+msgstr ""
+
+#: includes/admin/setup-install.php:311
+#: includes/admin/setup-install.php:353
+msgid "Correct now"
+msgstr ""
+
+#: includes/admin/setup-install.php:318
+msgid "Edit setting"
+msgstr ""
+
+#: includes/admin/setup-install.php:349
+#, php-format
+msgid ""
+"You need to create a page with "
+"template %s"
+msgstr ""
+
+#: includes/admin/setup-install.php:377
+msgid "JobMonster Demo"
+msgstr ""
+
+#: includes/admin/setup-install.php:396
+msgid "Install "
+msgstr ""
+
+#: includes/admin/setup-install.php:406
+msgid "Install Demo"
+msgstr ""
+
+#: includes/application/application-custom-fields.php:24
+#: includes/job/admin-job-list.php:208
+msgid "Application"
+msgstr ""
+
+#: includes/application/application-custom-fields.php:60
+#: includes/job/job-custom-fields.php:132
+#: includes/libs/custom-fields/render-fields.php:358
+#: includes/member/candidate-custom-fields.php:146
+#: includes/member/candidate-social-fields.php:28
+#: includes/member/company-custom-fields.php:146
+#: includes/member/company-social-fields.php:28
+msgid "*"
+msgstr ""
+
+#: includes/application/application-default-fields.php:10
+#: includes/libs/custom-fields/custom-fields.php:11
+msgid "Textarea"
+msgstr ""
+
+#: includes/application/application-default-fields.php:12
+msgid ""
+"Your cover letter/message sent to "
+"the employer"
+msgstr ""
+
+#: includes/application/application-default-fields.php:21
+#: includes/libs/custom-fields/custom-fields.php:19
+msgid "File Upload"
+msgstr ""
+
+#: includes/class-jlt-activator.php:49
+#: includes/class-jlt-member.php:376
+#: includes/email/template_fields.php:37
+#: includes/email/template_fields.php:63
+#: includes/email/template_fields.php:78
+#: includes/email/template_fields.php:93
+#: includes/email/template_fields.php:108
+msgid "Employer"
+msgstr ""
+
+#: includes/class-jlt-job-factory.php:116
+#: includes/class-jlt-job-factory.php:143
+#: includes/class-jlt-job-factory.php:169
+#: includes/class-jlt-job-factory.php:210
+#, php-format
+msgid ""
+"View all jobs in: &ldquo;%s&rdquo;"
+msgstr ""
+
+#: includes/class-jlt-job-factory.php:189
+msgid "Complete Address:"
+msgstr ""
+
+#: includes/class-jlt-member.php:409
+msgid "Candidate Basic Info"
+msgstr ""
+
+#: includes/class-jlt-member.php:413
+#: templates/member/candidate_profile.php:61
+msgid "Profile Image"
+msgstr ""
+
+#: includes/class-jlt-member.php:428
+#: includes/libs/meta-boxes/class-helper.php:154
+msgid "Upload Image"
+msgstr ""
+
+#: includes/class-jlt-member.php:430
+msgid ""
+"Upload an additional image for your "
+"user profile."
+msgstr ""
+
+#: includes/class-jlt-member.php:471
+msgid "Candidate Social Profile"
+msgstr ""
+
+#: includes/class-jlt-member.php:505
+msgid "Employer Information"
+msgstr ""
+
+#: includes/class-jlt-member.php:508
+msgid "Representative for Company"
+msgstr ""
+
+#: includes/class-jlt-member.php:520
+msgid "- Select -"
+msgstr ""
+
+#: includes/class-jlt-member.php:693
+msgid ""
+"Reset link misses key or username."
+msgstr ""
+
+#: includes/class-jlt-member.php:701
+msgid "Your reset key is expired."
+msgstr ""
+
+#: includes/class-jlt-member.php:704
+msgid "Invalid reset key."
+msgstr ""
+
+#: includes/class-jlt-member.php:733
+msgid "your candidates"
+msgstr ""
+
+#: includes/class-jlt-member.php:736
+#: includes/job/admin-job-list.php:331
+#: templates/member/manage-application.php:57
+msgid "Approve"
+msgstr ""
+
+#: includes/class-jlt-member.php:736
+#: templates/member/manage-application.php:58
+msgid "Reject"
+msgstr ""
+
+#: includes/class-jlt-member.php:897
+msgid "Member Options"
+msgstr ""
+
+#: includes/class-jlt-member.php:902
+msgid "Member Manage Page"
+msgstr ""
+
+#: includes/class-jlt-member.php:917
+#: includes/class-jlt-member.php:1015
+#: includes/job/admin-settings.php:144
+msgid "Select a page&hellip;"
+msgstr ""
+
+#: includes/class-jlt-member.php:919
+msgid ""
+"Select a page with shortcode "
+"[jlt_member]"
+msgstr ""
+
+#: includes/class-jlt-member.php:925
+msgid ""
+"Use Member page as WordPress Login/"
+"Register"
+msgstr ""
+
+#: includes/class-jlt-member.php:931
+msgid ""
+"If this option is enabled, all login "
+"links ( /wp-admin included ) will be "
+"redirect to the Member page"
+msgstr ""
+
+#: includes/class-jlt-member.php:936
+msgid "Who can Register?"
+msgstr ""
+
+#: includes/class-jlt-member.php:944
+msgid "Both Employer & Candidate"
+msgstr ""
+
+#: includes/class-jlt-member.php:946
+msgid "Only Employer"
+msgstr ""
+
+#: includes/class-jlt-member.php:948
+msgid "Only Candidate"
+msgstr ""
+
+#: includes/class-jlt-member.php:950
+msgid "Disable Register"
+msgstr ""
+
+#: includes/class-jlt-member.php:953
+#, php-format
+msgid ""
+"Registration is not enabled on this "
+"site. To enable it please go to %s "
+"and allow Anyone can register."
+msgstr ""
+
+#: includes/class-jlt-member.php:953
+msgid "General Setting"
+msgstr ""
+
+#: includes/class-jlt-member.php:959
+msgid "Show Member Page Menu"
+msgstr ""
+
+#: includes/class-jlt-member.php:968
+msgid "Show Member Page on Menu"
+msgstr ""
+
+#: includes/class-jlt-member.php:973
+msgid "Select a menu"
+msgstr ""
+
+#: includes/class-jlt-member.php:984
+msgid ""
+"Show member page on menu location."
+msgstr ""
+
+#: includes/class-jlt-member.php:989
+msgid "Hide Admin Bar"
+msgstr ""
+
+#: includes/class-jlt-member.php:995
+msgid ""
+"Hide Admin bar for users "
+"( Candidates and Employeres ) "
+"registered from now."
+msgstr ""
+
+#: includes/class-jlt-member.php:1000
+msgid "Terms and Conditions Page"
+msgstr ""
+
+#: includes/class-jlt-member.php:1016
+msgid ""
+"This page used for \"I agree with "
+"the Terms of use\" on Registration "
+"form"
+msgstr ""
+
+#: includes/class-jlt.php:108
+#: includes/functions/template-functions.php:215
+msgid "Job Listings"
+msgstr ""
+
+#: includes/class-jlt.php:315
+msgid "Docs & Support"
+msgstr ""
+
+#: includes/common/3rd-api.php:10
+msgid "3rd APIs"
+msgstr ""
+
+#: includes/common/3rd-api.php:45
+msgid "APIs"
+msgstr ""
+
+#: includes/common/3rd-api.php:50
+msgid "Google reCaptcha Key"
+msgstr ""
+
+#: includes/common/3rd-api.php:55
+msgid "Google reCaptcha Public Key"
+msgstr ""
+
+#: includes/common/3rd-api.php:58
+msgid "Google reCaptcha Secret key"
+msgstr ""
+
+#: includes/common/3rd-api.php:59
+msgid ""
+"Please enter Google reCaptcha public "
+"and secret key"
+msgstr ""
+
+#: includes/common/3rd-api.php:61
+msgid ""
+"Click here to get Google reCaptcha "
+"Key "
+msgstr ""
+
+#: includes/common/admin-settings.php:13
+msgid "Common"
+msgstr ""
+
+#: includes/common/admin-settings.php:25
+msgid "Allowed Upload File Types"
+msgstr ""
+
+#: includes/common/admin-settings.php:26
+msgid ""
+"File types that are allowed for "
+"upload. Default only allows Word and "
+"PDF files"
+msgstr ""
+
+#: includes/common/admin-settings.php:33
+msgid "Upload directory"
+msgstr ""
+
+#: includes/common/admin-settings.php:34
+msgid ""
+"Directory for upload. Default file "
+"will upload to <b>job-listings</b> : "
+"wp-content/uploads/job-listings. "
+"<b>Warning: The site has data, the "
+"old data will be wrong file path.</b>"
+msgstr ""
+
+#: includes/common/admin-settings.php:41
+msgid "Common settings"
+msgstr ""
+
+#: includes/common/dashboard.php:10
+#: includes/libs/custom-fields/custom-fields.php:253
+msgid "Custom Fields"
+msgstr ""
+
+#: includes/common/dashboard.php:12
+msgid "Addons"
+msgstr ""
+
+#: includes/common/dashboard.php:33
+#: includes/common/dashboard.php:62
+msgid "Your settings have been saved."
+msgstr ""
+
+#: includes/common/dashboard.php:96
+msgid "Job Listings Addons"
+msgstr ""
+
+#: includes/common/endpoints.php:10
+msgid "Endpoints"
+msgstr ""
+
+#: includes/common/endpoints.php:35
+msgid "Employer Endpoints Options"
+msgstr ""
+
+#: includes/common/endpoints.php:36
+msgid ""
+"Endpoints are appended to your page "
+"URLs to handle specific actions on "
+"the member pages. They should be "
+"unique and can be left blank to "
+"disable the endpoint."
+msgstr ""
+
+#: includes/common/endpoints.php:60
+msgid "Candidate Endpoints Options"
+msgstr ""
+
+#: includes/common/google-map/location.php:15
+msgid "Location"
+msgstr ""
+
+#: includes/common/google-map/location.php:37
+msgid "Google Map Location Settings"
+msgstr ""
+
+#: includes/common/google-map/location.php:42
+msgid "Google Maps API Key"
+msgstr ""
+
+#: includes/common/google-map/location.php:49
+msgid ""
+"<b>Google</b> requires that you "
+"register an API Key to display "
+"<b>Maps</b> on from your website."
+msgstr ""
+
+#: includes/common/google-map/location.php:51
+msgid ""
+"To know how to create this "
+"application,"
+msgstr ""
+
+#: includes/common/google-map/location.php:53
+msgid ""
+"click here and follow the steps."
+msgstr ""
+
+#: includes/common/google-map/location.php:58
+msgid ""
+"To register a new <b> Google Map API "
+"Key</b>, follow the steps"
+msgstr ""
+
+#: includes/common/google-map/location.php:62
+msgid "Go to"
+msgstr ""
+
+#: includes/common/google-map/location.php:65
+msgid "Google Developers Console"
+msgstr ""
+
+#: includes/common/google-map/location.php:65
+msgid ""
+"Login to your Google account if "
+"needed"
+msgstr ""
+
+#: includes/common/google-map/location.php:68
+msgid ""
+"Agree with the service Terms of "
+"Service ( only the first time )."
+msgstr ""
+
+#: includes/common/google-map/location.php:71
+msgid ""
+"Select an existed project or Create "
+"new, then click Continue"
+msgstr ""
+
+#: includes/common/google-map/location.php:74
+msgid ""
+"Fill in your domain. You can use "
+"multiple domains, but one should "
+"match the current domain."
+msgstr ""
+
+#: includes/common/google-map/location.php:76
+msgid "Click <b>Create</b>"
+msgstr ""
+
+#: includes/common/google-map/location.php:78
+msgid ""
+"Copy the <em>API Key</em> then paste "
+"into the setting above"
+msgstr ""
+
+#: includes/common/google-map/location.php:81
+msgid "And that's it!"
+msgstr ""
+
+#: includes/common/google-map/location.php:83
+msgid ""
+"For more reference, you can see: "
+msgstr ""
+
+#: includes/common/google-map/location.php:85
+msgid "Official Document"
+msgstr ""
+
+#: includes/common/google-map/location.php:87
+msgid "Google Blog"
+msgstr ""
+
+#: includes/common/google-map/location.php:116
+msgid "Allow User Input"
+msgstr ""
+
+#: includes/common/google-map/location.php:122
+msgid ""
+"Users can input new locations when "
+"posting  jobs"
+msgstr ""
+
+#: includes/common/google-map/location.php:128
+msgid "Enable Google Auto-Complete"
+msgstr ""
+
+#: includes/common/google-map/location.php:134
+msgid ""
+"Using Auto-Complete from Google Map "
+"for your location input"
+msgstr ""
+
+#: includes/common/google-map/location.php:140
+msgid "Country Restriction"
+msgstr ""
+
+#: includes/common/google-map/location.php:142
+msgid ""
+"Select your country will limit all "
+"suggestions to your local locations. "
+"Leave it blank to use all the "
+"locations around the world."
+msgstr ""
+
+#: includes/common/google-map/location.php:162
+msgid "Google Map Height"
+msgstr ""
+
+#: includes/common/google-map/location.php:167
+msgid "px"
+msgstr ""
+
+#: includes/common/google-map/location.php:172
+msgid "Google Map Style"
+msgstr ""
+
+#: includes/common/google-map/location.php:189
+msgid "Location Type"
+msgstr ""
+
+#: includes/common/google-map/location.php:195
+msgid "Administrative Regions"
+msgstr ""
+
+#: includes/common/google-map/location.php:199
+msgid "Cities"
+msgstr ""
+
+#: includes/common/google-map/location.php:203
+msgid ""
+"Establishment ( Business location )"
+msgstr ""
+
+#: includes/common/google-map/location.php:207
+msgid "Full address"
+msgstr ""
+
+#: includes/common/google-map/location.php:210
+msgid ""
+"Select the location type that "
+"matches your business."
+msgstr ""
+
+#: includes/common/search.php:41
+#: templates/job/loop/loop-before.php:31
+#, php-format
+msgid "%s job"
+msgid_plural "%s jobs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/common/upload.php:14
+msgid ""
+"Are you sure you want to delete this?"
+msgstr ""
+
+#: includes/common/upload.php:34
+msgid "Remove File"
+msgstr ""
+
+#: includes/common/upload.php:43
+msgid ""
+"Please agree with the Terms of use"
+msgstr ""
+
+#: includes/common/upload.php:44
+msgid ""
+"Are you sure to delete this job?"
+msgstr ""
+
+#: includes/common/upload.php:45
+msgid "Sending info, please wait..."
+msgstr ""
+
+#: includes/common/upload.php:64
+#: includes/common/upload.php:131
+msgid "Browse"
+msgstr ""
+
+#: includes/common/upload.php:112
+msgid "Allowed Files"
+msgstr ""
+
+#: includes/common/upload.php:132
+#, php-format
+msgid "Maximum upload file size: %s"
+msgstr ""
+
+#: includes/common/upload.php:134
+#, php-format
+msgid "Allowed file: %s"
+msgstr ""
+
+#: includes/common/upload.php:155
+msgid "Delete File"
+msgstr ""
+
+#: includes/common/upload.php:165
+msgid "No file selected."
+msgstr ""
+
+#: includes/common/upload.php:200
+#: includes/common/upload.php:210
+msgid "Remove"
+msgstr ""
+
+#: includes/common/woocommerce_fields.php:78
+msgid "Days"
+msgstr ""
+
+#: includes/common/woocommerce_fields.php:79
+msgid "Weeks"
+msgstr ""
+
+#: includes/common/woocommerce_fields.php:80
+msgid "Months"
+msgstr ""
+
+#: includes/common/woocommerce_fields.php:81
+msgid "Years"
+msgstr ""
+
+#: includes/email/setting_templates.php:34
+msgid "Email Templates"
+msgstr ""
+
+#: includes/email/setting_templates.php:86
+msgid "Email Configuration"
+msgstr ""
+
+#: includes/email/setting_templates.php:91
+msgid "From Email"
+msgstr ""
+
+#: includes/email/setting_templates.php:98
+msgid ""
+"The email address that emails on "
+"your site should be sent from. You "
+"should leave it blank if you used a "
+"3rd plugin for sending email."
+msgstr ""
+
+#: includes/email/setting_templates.php:104
+msgid "From Name"
+msgstr ""
+
+#: includes/email/setting_templates.php:111
+msgid ""
+"The name that emails on your site "
+"should be sent from. You should "
+"leave it blank if you used a 3rd "
+"plugin for sending email."
+msgstr ""
+
+#: includes/email/setting_templates.php:118
+msgid "Email Templates Options"
+msgstr ""
+
+#: includes/email/setting_templates.php:119
+msgid ""
+"Email notifications list. Click on "
+"an email to configure it."
+msgstr ""
+
+#: includes/email/setting_templates.php:124
+#: includes/libs/custom-fields/custom-fields.php:9
+#: includes/libs/custom-fields/social-fields.php:35
+#: includes/member/candidate-default-fields.php:18
+#: includes/member/candidate-default-fields.php:21
+#: templates/form/apply-form.php:56
+#: templates/form/register.php:37
+msgid "Email"
+msgstr ""
+
+#: includes/email/setting_templates.php:126
+msgid "Recipient"
+msgstr ""
+
+#: includes/email/setting_templates.php:127
+msgid "Description"
+msgstr ""
+
+#: includes/email/setting_templates.php:128
+#: includes/libs/custom-fields/custom-fields.php:298
+#: templates/member/manage-application.php:122
+#: templates/member/manage-job-applied.php:36
+#: templates/member/manage-job.php:87
+msgid "Action"
+msgstr ""
+
+#: includes/email/setting_templates.php:179
+msgid "Activate"
+msgstr ""
+
+#: includes/email/setting_templates.php:193
+msgid "Subject"
+msgstr ""
+
+#: includes/email/setting_templates.php:198
+msgid "Enter Your Subject"
+msgstr ""
+
+#: includes/email/setting_templates.php:204
+msgid "Email Content"
+msgstr ""
+
+#: includes/email/template_fields.php:10
+msgid "inserting your site name"
+msgstr ""
+
+#: includes/email/template_fields.php:11
+msgid "inserting your site URL"
+msgstr ""
+
+#: includes/email/template_fields.php:21
+msgid "Admin Job Submit"
+msgstr ""
+
+#: includes/email/template_fields.php:22
+msgid "Email to admin when job submit"
+msgstr ""
+
+#: includes/email/template_fields.php:23
+msgid "Administrator"
+msgstr ""
+
+#: includes/email/template_fields.php:25
+msgid ""
+"[site_name] New job posted: "
+"[job_title]"
+msgstr ""
+
+#: includes/email/template_fields.php:26
+msgid ""
+"[job_company] has just submitted a "
+"job:<br/></br><a href="
+"\"[job_url]\">View Job</a>.<br/><br/"
+">Best regards,<br/>[site_name]"
+msgstr ""
+
+#: includes/email/template_fields.php:28
+#: includes/email/template_fields.php:68
+#: includes/email/template_fields.php:83
+#: includes/email/template_fields.php:98
+#: includes/email/template_fields.php:113
+#: includes/email/template_fields.php:129
+#: includes/email/template_fields.php:145
+#: includes/email/template_fields.php:162
+msgid "inserting job title"
+msgstr ""
+
+#: includes/email/template_fields.php:29
+#: includes/email/template_fields.php:69
+#: includes/email/template_fields.php:84
+#: includes/email/template_fields.php:99
+#: includes/email/template_fields.php:114
+#: includes/email/template_fields.php:130
+#: includes/email/template_fields.php:146
+#: includes/email/template_fields.php:163
+msgid "inserting job URL"
+msgstr ""
+
+#: includes/email/template_fields.php:30
+#: includes/email/template_fields.php:70
+#: includes/email/template_fields.php:85
+#: includes/email/template_fields.php:100
+msgid "inserting job content"
+msgstr ""
+
+#: includes/email/template_fields.php:31
+#: includes/email/template_fields.php:71
+#: includes/email/template_fields.php:86
+#: includes/email/template_fields.php:101
+#: includes/email/template_fields.php:115
+#: includes/email/template_fields.php:131
+#: includes/email/template_fields.php:147
+#: includes/email/template_fields.php:164
+msgid "inserting job company name"
+msgstr ""
+
+#: includes/email/template_fields.php:35
+msgid "Employer registration"
+msgstr ""
+
+#: includes/email/template_fields.php:36
+msgid ""
+"Email to employer after registration"
+msgstr ""
+
+#: includes/email/template_fields.php:39
+#: includes/email/template_fields.php:52
+msgid ""
+"Congratulation! You've successfully "
+"created an account on [[site_name]]"
+msgstr ""
+
+#: includes/email/template_fields.php:40
+#: includes/email/template_fields.php:53
+msgid ""
+"Dear [user_name],<br/>Thank you for "
+"registering an account on "
+"[site_name] as an employer. You can "
+"start posting jobs or search for "
+"your potential candidates now.<br/"
+"><br/>Best regards,<br/>[site_name]"
+msgstr ""
+
+#: includes/email/template_fields.php:42
+#: includes/email/template_fields.php:55
+msgid "inserting username"
+msgstr ""
+
+#: includes/email/template_fields.php:43
+#: includes/email/template_fields.php:56
+msgid "inserting user email"
+msgstr ""
+
+#: includes/email/template_fields.php:44
+#: includes/email/template_fields.php:57
+msgid "inserting user registered time"
+msgstr ""
+
+#: includes/email/template_fields.php:48
+msgid "Candidate registration"
+msgstr ""
+
+#: includes/email/template_fields.php:49
+msgid ""
+"Email to candidate after registration"
+msgstr ""
+
+#: includes/email/template_fields.php:61
+msgid "Employer job submitted"
+msgstr ""
+
+#: includes/email/template_fields.php:62
+msgid "Email to employer posted job"
+msgstr ""
+
+#: includes/email/template_fields.php:65
+msgid ""
+"[[site_name]] You've successfully "
+"posted a job [job_title]"
+msgstr ""
+
+#: includes/email/template_fields.php:66
+msgid ""
+"Hi [job_company],<br/><br/>You've "
+"successfully post a new job:<br/><a "
+"href=\"[job_url]\">View Job Detail</"
+"a>.<br/><br/>You can manage your "
+"jobs in <a href="
+"\"[job_manage_url]\">Manage Jobs</"
+"a><br/><br/>Best regards,<br/"
+">[site_name]"
+msgstr ""
+
+#: includes/email/template_fields.php:72
+#: includes/email/template_fields.php:87
+#: includes/email/template_fields.php:102
+msgid "inserting job manage url"
+msgstr ""
+
+#: includes/email/template_fields.php:76
+msgid "Employer job approved"
+msgstr ""
+
+#: includes/email/template_fields.php:77
+msgid ""
+"Email to employer after approved job"
+msgstr ""
+
+#: includes/email/template_fields.php:80
+msgid ""
+"[[site_name]] Your job [job_title] "
+"has been approved and published"
+msgstr ""
+
+#: includes/email/template_fields.php:81
+msgid ""
+"Hi [job_company],<br/><br/>Your "
+"submitted job [job_title] has been "
+"approved and published now on "
+"[site_name]:<br/><a href="
+"\"[job_url]\">View Job Detail</a>."
+"<br/><br/>You can manage your jobs "
+"in <a href="
+"\"[job_manage_url]\">Manage Jobs</"
+"a><br/><br/>Best regards,<br/"
+">[site_name]"
+msgstr ""
+
+#: includes/email/template_fields.php:91
+msgid "Employer job rejected"
+msgstr ""
+
+#: includes/email/template_fields.php:92
+msgid ""
+"Email to employer after rejected job"
+msgstr ""
+
+#: includes/email/template_fields.php:95
+msgid ""
+"[[site_name]] Your job [job_title] "
+"can't be published"
+msgstr ""
+
+#: includes/email/template_fields.php:96
+msgid ""
+"Hi [job_company],<br/><br/>Your "
+"submitted job [job_title] can not be "
+"published and has been deleted. You "
+"will have to submit another job.<br/"
+"><br/>You can manage your jobs in <a "
+"href=\"[job_manage_url]\">Manage "
+"Jobs</a><br/><br/>Best regards,<br/"
+">[site_name]"
+msgstr ""
+
+#: includes/email/template_fields.php:106
+msgid "Employer has new application"
+msgstr ""
+
+#: includes/email/template_fields.php:107
+msgid ""
+"Email to employer when has new apply"
+msgstr ""
+
+#: includes/email/template_fields.php:110
+msgid ""
+"[[site_name]] [candidate_name] "
+"applied for [job_title]"
+msgstr ""
+
+#: includes/email/template_fields.php:111
+msgid ""
+"Hi [job_company],<br/><br/"
+">[candidate_name]'ve just applied "
+"for [job_title].<br/><br/>You can "
+"manage applications for your jobs in "
+"<a href="
+"\"[application_manage_url]\">Manage "
+"Application</a>.<br/><br/>Best "
+"regards,<br/>[site_name]"
+msgstr ""
+
+#: includes/email/template_fields.php:116
+#: includes/email/template_fields.php:132
+#: includes/email/template_fields.php:148
+#: includes/email/template_fields.php:165
+msgid "inserting candidate name"
+msgstr ""
+
+#: includes/email/template_fields.php:117
+#: includes/email/template_fields.php:133
+msgid ""
+"inserting application message content"
+msgstr ""
+
+#: includes/email/template_fields.php:118
+#: includes/email/template_fields.php:134
+#: includes/email/template_fields.php:149
+#: includes/email/template_fields.php:167
+msgid ""
+"inserting application manage Url"
+msgstr ""
+
+#: includes/email/template_fields.php:122
+msgid "Candidate new application"
+msgstr ""
+
+#: includes/email/template_fields.php:123
+msgid ""
+"Email to candidate after apply to job"
+msgstr ""
+
+#: includes/email/template_fields.php:126
+msgid ""
+"You have successfully applied for "
+"[job_title]"
+msgstr ""
+
+#: includes/email/template_fields.php:127
+msgid ""
+"Congratulation [candidate_name],<br/"
+"><br/>You've successfully applied "
+"for [job_title].<br/><a href="
+"\"[job_url]\">View Job Detail</a><br/"
+">You can manage and follow status of "
+"your applied jobs and applications "
+"in <a href="
+"\"[application_manage_url]\">My "
+"Applications</a>.<br/><br/>Note: Due "
+"to high application volume, "
+"employers may not be able to respond "
+"to all the application.<br/><br/"
+">Good luck on your future career "
+"path!<br/><br/>Best regards,<br/"
+">[site_name]"
+msgstr ""
+
+#: includes/email/template_fields.php:138
+msgid "Candidate application approved"
+msgstr ""
+
+#: includes/email/template_fields.php:139
+msgid ""
+"Email to candidate after employer "
+"approved application"
+msgstr ""
+
+#: includes/email/template_fields.php:142
+#: includes/email/template_fields.php:159
+msgid ""
+"[job_company] has responded to your "
+"application"
+msgstr ""
+
+#: includes/email/template_fields.php:143
+#: includes/email/template_fields.php:160
+msgid ""
+"Hi [candidate_name],<br/"
+">[job_company] has just responded to "
+"your application for job  <a href="
+"\"[job_url]\">[job_title]</a> with "
+"message: <br/><em>[responded]</"
+"em><br/>You can manage your "
+"applications in <a href="
+"\"[application_manage_url]\">Manage "
+"Application</a>.<br/>Best regards,"
+"<br/>[site_name]"
+msgstr ""
+
+#: includes/email/template_fields.php:150
+msgid ""
+"inserting approved apply responded "
+"message"
+msgstr ""
+
+#: includes/email/template_fields.php:151
+msgid ""
+"inserting approved apply title "
+"responded message"
+msgstr ""
+
+#: includes/email/template_fields.php:155
+msgid "Candidate application rejected"
+msgstr ""
+
+#: includes/email/template_fields.php:156
+msgid ""
+"Email to candidate after employer "
+"rejected application"
+msgstr ""
+
+#: includes/email/template_fields.php:220
+msgid "Default content"
+msgstr ""
+
+#: includes/email/template_fields.php:224
+msgid ""
+"You can use the following "
+"placeholders in content of this "
+"email:"
+msgstr ""
+
+#: includes/email/template_fields.php:247
+msgid ""
+"You can also use the custom fields:"
+msgstr ""
+
+#: includes/forms/class-jlt-form-application.php:41
+msgid "Invalid job"
+msgstr ""
+
+#: includes/forms/class-jlt-form-application.php:49
+msgid "Please enter your name"
+msgstr ""
+
+#: includes/forms/class-jlt-form-application.php:54
+msgid ""
+"Please provide a valid email address"
+msgstr ""
+
+#: includes/forms/class-jlt-form-application.php:74
+#: templates/job/apply.php:28
+msgid ""
+"You have already applied for this job"
+msgstr ""
+
+#: includes/forms/class-jlt-form-application.php:89
+#, php-format
+msgid "%s is required field."
+msgstr ""
+
+#: includes/forms/class-jlt-form-application.php:114
+msgid ""
+"Could not add a new job application"
+msgstr ""
+
+#: includes/forms/class-jlt-form-application.php:121
+msgid ""
+"Your job application has been "
+"submitted successfully"
+msgstr ""
+
+#: includes/forms/class-jlt-form-application.php:187
+#, php-format
+msgid ""
+"Only the following file types are "
+"allowed: %s"
+msgstr ""
+
+#: includes/forms/class-jlt-form-application.php:262
+msgid ""
+"Error when approving application."
+msgstr ""
+
+#: includes/forms/class-jlt-form-application.php:309
+#, php-format
+msgid "Approved %s application"
+msgid_plural "Approved %s applications"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/forms/class-jlt-form-application.php:311
+msgid "No application approved"
+msgstr ""
+
+#: includes/forms/class-jlt-form-application.php:335
+msgid ""
+"Error when rejecting application."
+msgstr ""
+
+#: includes/forms/class-jlt-form-application.php:381
+#, php-format
+msgid "Rejected %s application"
+msgid_plural "Rejected %s applications"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/forms/class-jlt-form-application.php:383
+msgid "No application rejected"
+msgstr ""
+
+#: includes/forms/class-jlt-form-application.php:398
+#: includes/forms/class-jlt-form-application.php:572
+msgid ""
+"Error when deleting application."
+msgstr ""
+
+#: includes/forms/class-jlt-form-application.php:404
+#: includes/forms/class-jlt-form-application.php:578
+#, php-format
+msgid "Deleted %s application"
+msgid_plural "Deleted %s applications"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/forms/class-jlt-form-application.php:406
+#: includes/forms/class-jlt-form-application.php:580
+msgid "No application deleted"
+msgstr ""
+
+#: includes/forms/class-jlt-form-application.php:548
+msgid ""
+"Error when withdrawing application."
+msgstr ""
+
+#: includes/forms/class-jlt-form-application.php:554
+#, php-format
+msgid "Withdrawn %s application"
+msgid_plural ""
+"Withdrawn %s applications"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/forms/class-jlt-form-application.php:556
+msgid "No application withdrawn"
+msgstr ""
+
+#: includes/forms/class-jlt-form-company.php:25
+msgid "Company updated"
+msgstr ""
+
+#: includes/forms/class-jlt-form-job-hander.php:46
+msgid "Job saved"
+msgstr ""
+
+#: includes/forms/class-jlt-form-job-hander.php:49
+#: includes/job/job-posting-action.php:21
+msgid "You can not post job"
+msgstr ""
+
+#: includes/forms/class-jlt-form-job-hander.php:96
+msgid "Job successfully added"
+msgstr ""
+
+#: includes/forms/class-jlt-form-job-hander.php:227
+msgid ""
+"You must have a previous profile "
+"company."
+msgstr ""
+
+#: includes/forms/class-jlt-form-job-hander.php:281
+msgid "Preview Job"
+msgstr ""
+
+#: includes/forms/class-jlt-form-job-hander.php:282
+#: templates/form/job-preview.php:55
+msgid "Submit Job"
+msgstr ""
+
+#: includes/forms/class-jlt-form-job-hander.php:293
+msgid "Mising Job ID."
+msgstr ""
+
+#: includes/forms/class-jlt-form-job-hander.php:299
+msgid "You can't edit this job."
+msgstr ""
+
+#: includes/forms/class-jlt-form-job-hander.php:315
+msgid "Save Job"
+msgstr ""
+
+#: includes/forms/class-jlt-form-job-hander.php:316
+#: includes/job/init.php:27
+#: templates/form/job-preview.php:54
+#: templates/member/manage-job.php:185
+msgid "Edit Job"
+msgstr ""
+
+#: includes/forms/class-jlt-form-job-manage.php:49
+#: includes/forms/class-jlt-form-job-manage.php:81
+#: includes/forms/class-jlt-form-job-manage.php:123
+#: includes/forms/class-jlt-form-job-manage.php:146
+#: includes/job/admin-job-list.php:9
+#: includes/job/admin-job-list.php:43
+msgid ""
+"You do not have sufficient "
+"permissions to access this page."
+msgstr ""
+
+#: includes/forms/class-jlt-form-job-manage.php:56
+msgid ""
+"There was an error publishing this "
+"job."
+msgstr ""
+
+#: includes/forms/class-jlt-form-job-manage.php:62
+#, php-format
+msgid "Published %s job"
+msgid_plural "Published %s jobs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/forms/class-jlt-form-job-manage.php:64
+msgid "No job published"
+msgstr ""
+
+#: includes/forms/class-jlt-form-job-manage.php:88
+msgid ""
+"There was an error unpublishing this "
+"job."
+msgstr ""
+
+#: includes/forms/class-jlt-form-job-manage.php:93
+#, php-format
+msgid "Unpublished %s job"
+msgid_plural "Unpublished %s jobs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/forms/class-jlt-form-job-manage.php:95
+msgid "No job unpublished"
+msgstr ""
+
+#: includes/forms/class-jlt-form-job-manage.php:104
+msgid ""
+"You do not have sufficient "
+"permissions set job to featured! "
+"Please check your plan package!"
+msgstr ""
+
+#: includes/forms/class-jlt-form-job-manage.php:113
+msgid ""
+"You cannot change expired jobs to "
+"featured ones."
+msgstr ""
+
+#: includes/forms/class-jlt-form-job-manage.php:131
+msgid ""
+"Job set to featured successfully."
+msgstr ""
+
+#: includes/forms/class-jlt-form-job-manage.php:153
+msgid "Error in deleting."
+msgstr ""
+
+#: includes/forms/class-jlt-form-job-manage.php:170
+#, php-format
+msgid "Deleted %s job"
+msgid_plural "Deleted %s jobs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/forms/class-jlt-form-job-manage.php:172
+msgid "No job deleted"
+msgstr ""
+
+#: includes/forms/class-jlt-form-member.php:53
+msgid ""
+"Login successful, redirecting..."
+msgstr ""
+
+#: includes/forms/class-jlt-form-member.php:63
+#, php-format
+msgid ""
+"You have already logged in. Please "
+"<a href=\"#\" onclick=\"%s"
+"\">refresh</a> page"
+msgstr ""
+
+#: includes/forms/class-jlt-form-member.php:89
+msgid ""
+"This site does not allow "
+"registration."
+msgstr ""
+
+#: includes/forms/class-jlt-form-member.php:94
+msgid "Please type your user name."
+msgstr ""
+
+#: includes/forms/class-jlt-form-member.php:96
+msgid ""
+"This user login was already "
+"registered, please choose another "
+"one."
+msgstr ""
+
+#: includes/forms/class-jlt-form-member.php:101
+msgid "Please type your email address."
+msgstr ""
+
+#: includes/forms/class-jlt-form-member.php:103
+msgid ""
+"The email address isn't correct."
+msgstr ""
+
+#: includes/forms/class-jlt-form-member.php:105
+msgid ""
+"This email was already registered, "
+"please choose another one."
+msgstr ""
+
+#: includes/forms/class-jlt-form-member.php:110
+msgid ""
+"Password must be at least six "
+"characters long."
+msgstr ""
+
+#: includes/forms/class-jlt-form-member.php:112
+msgid ""
+"Please enter the password "
+"confirmation."
+msgstr ""
+
+#: includes/forms/class-jlt-form-member.php:114
+#: includes/forms/class-jlt-form-member.php:418
+msgid "Passwords do not match."
+msgstr ""
+
+#: includes/forms/class-jlt-form-member.php:119
+msgid "Please select your role."
+msgstr ""
+
+#: includes/forms/class-jlt-form-member.php:151
+msgid "Error on user creation."
+msgstr ""
+
+#: includes/forms/class-jlt-form-member.php:195
+msgid ""
+"You're successfully register, you "
+"auto login to system."
+msgstr ""
+
+#: includes/forms/class-jlt-form-member.php:232
+msgid "You're login to system."
+msgstr ""
+
+#: includes/forms/class-jlt-form-member.php:237
+msgid ""
+"Looks like these are not your "
+"correct details. Please try again."
+msgstr ""
+
+#: includes/forms/class-jlt-form-member.php:303
+#: includes/forms/class-jlt-form-member.php:376
+msgid "You have not logged in yet"
+msgstr ""
+
+#: includes/forms/class-jlt-form-member.php:314
+#: includes/forms/class-jlt-form-member.php:387
+msgid ""
+"Your session has expired or you have "
+"submitted an invalid form."
+msgstr ""
+
+#: includes/forms/class-jlt-form-member.php:329
+#: includes/forms/class-jlt-form-member.php:402
+#: includes/forms/class-jlt-form-member.php:496
+#: includes/job/job-apply-action.php:38
+#: includes/job/job-viewable.php:50
+msgid ""
+"There's an unknown error. Please "
+"retry or contact Administrator."
+msgstr ""
+
+#: includes/forms/class-jlt-form-member.php:339
+msgid "The new email is blank."
+msgstr ""
+
+#: includes/forms/class-jlt-form-member.php:344
+msgid "Emails do not match."
+msgstr ""
+
+#: includes/forms/class-jlt-form-member.php:362
+msgid "Email updated successfully."
+msgstr ""
+
+#: includes/forms/class-jlt-form-member.php:413
+msgid "The new password is blank."
+msgstr ""
+
+#: includes/forms/class-jlt-form-member.php:427
+msgid "Password updated successfully."
+msgstr ""
+
+#: includes/forms/class-jlt-form-member.php:433
+msgid "Old password is not correct."
+msgstr ""
+
+#: includes/forms/class-jlt-form-member.php:457
+msgid "Missing Candidate ID."
+msgstr ""
+
+#: includes/forms/class-jlt-form-member.php:459
+msgid ""
+"You can not edit someone else's "
+"profile."
+msgstr ""
+
+#: includes/forms/class-jlt-form-member.php:510
+msgid ""
+"Your profile is updated successfully"
+msgstr ""
+
+#: includes/functions/ajax-upload.php:161
+msgid "Failed to open temp directory."
+msgstr ""
+
+#: includes/functions/ajax-upload.php:188
+#: includes/functions/ajax-upload.php:212
+msgid "Failed to open input stream."
+msgstr ""
+
+#: includes/functions/ajax-upload.php:195
+#: includes/functions/ajax-upload.php:218
+msgid "Failed to open output stream."
+msgstr ""
+
+#: includes/functions/ajax-upload.php:198
+msgid "Failed to move uploaded file."
+msgstr ""
+
+#: includes/functions/functions.php:117
+msgid "Page #"
+msgstr ""
+
+#: includes/functions/template-functions.php:175
+msgid "Tags: "
+msgstr ""
+
+#: includes/functions/template-functions.php:180
+msgid "Category: "
+msgstr ""
+
+#: includes/functions/template-functions.php:186
+msgid "Type: "
+msgstr ""
+
+#: includes/functions/template-functions.php:192
+msgid "Location: "
+msgstr ""
+
+#: includes/functions/template-functions.php:219
+msgid "Resume Listings"
+msgstr ""
+
+#: includes/functions/widget.php:225
+msgid "Search form for Jobs."
+msgstr ""
+
+#: includes/functions/widget.php:227
+msgid "Job Listings Job Search"
+msgstr ""
+
+#: includes/functions/widget.php:253
+#: templates/member/manage-approve-reject.php:35
+#: templates/member/manage-job.php:83
+msgid "Title"
+msgstr ""
+
+#: includes/job/admin-job-edit.php:12
+#, php-format
+msgid ""
+"%s updated. <a href=\"%s\">View</a>"
+msgstr ""
+
+#: includes/job/admin-job-edit.php:15
+#, php-format
+msgid "%s updated."
+msgstr ""
+
+#: includes/job/admin-job-edit.php:16
+#, php-format
+msgid "%s restored to revision from %s"
+msgstr ""
+
+#: includes/job/admin-job-edit.php:17
+#, php-format
+msgid ""
+"%s published. <a href=\"%s\">View</a>"
+msgstr ""
+
+#: includes/job/admin-job-edit.php:18
+#, php-format
+msgid "%s saved."
+msgstr ""
+
+#: includes/job/admin-job-edit.php:19
+#, php-format
+msgid ""
+"%s submitted. <a target=\"_blank\" "
+"href=\"%s\">Preview</a>"
+msgstr ""
+
+#: includes/job/admin-job-edit.php:21
+#, php-format
+msgid ""
+"%s scheduled for: <strong>%1$s</"
+"strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview</a>"
+msgstr ""
+
+#: includes/job/admin-job-edit.php:21
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: includes/job/admin-job-edit.php:22
+#, php-format
+msgid ""
+"%s draft updated. <a target=\"_blank"
+"\" href=\"%s\">Preview</a>"
+msgstr ""
+
+#: includes/job/admin-job-edit.php:32
+#: templates/form/job-submit.php:31
+msgid "Job Title"
+msgstr ""
+
+#: includes/job/admin-job-edit.php:73
+msgid "Job Settings"
+msgstr ""
+
+#: includes/job/admin-job-edit.php:80
+msgid ""
+"Posted by ( Employer - Company )"
+msgstr ""
+
+#: includes/job/admin-job-edit.php:89
+msgid ""
+"Use this option when you want to "
+"assign job to company without "
+"creating an employer."
+msgstr ""
+
+#: includes/job/admin-job-edit.php:94
+msgid "Job's Expiration Date"
+msgstr ""
+
+#: includes/job/admin-job-edit.php:152
+msgid "- Select a Company - "
+msgstr ""
+
+#: includes/job/admin-job-edit.php:170
+msgid "- Select an Employer - "
+msgstr ""
+
+#: includes/job/admin-job-list.php:13
+#: includes/job/admin-job-list.php:47
+msgid ""
+"You have taken too long. Please go "
+"back and retry."
+msgstr ""
+
+#: includes/job/admin-job-list.php:201
+msgid "Type"
+msgstr ""
+
+#: includes/job/admin-job-list.php:203
+msgid "Categories"
+msgstr ""
+
+#: includes/job/admin-job-list.php:205
+msgid "Closing"
+msgstr ""
+
+#: includes/job/admin-job-list.php:206
+msgid "Expired"
+msgstr ""
+
+#: includes/job/admin-job-list.php:207
+msgid "Is Job Featured?"
+msgstr ""
+
+#: includes/job/admin-job-list.php:208
+msgid "Number of Application"
+msgstr ""
+
+#: includes/job/admin-job-list.php:244
+msgid "for"
+msgstr ""
+
+#: includes/job/admin-job-list.php:263
+msgid "by a guest"
+msgstr ""
+
+#: includes/job/admin-job-list.php:398
+msgid "All Companies"
+msgstr ""
+
+#: includes/job/admin-job-list.php:414
+msgid "All Categories"
+msgstr ""
+
+#: includes/job/admin-job-list.php:427
+msgid "All Locations"
+msgstr ""
+
+#: includes/job/admin-job-list.php:440
+msgid "All Types"
+msgstr ""
+
+#: includes/job/admin-job-list.php:453
+msgid "All Tags"
+msgstr ""
+
+#: includes/job/admin-job-list.php:498
+#: includes/job/functions.php:87
+msgctxt "Job status"
+msgid "Active"
+msgstr ""
+
+#: includes/job/admin-settings.php:8
+#: includes/job/init.php:22
+msgid "Jobs"
+msgstr ""
+
+#: includes/job/admin-settings.php:41
+msgid "Job Display"
+msgstr ""
+
+#: includes/job/admin-settings.php:46
+msgid "Job Archive base (slug)"
+msgstr ""
+
+#: includes/job/admin-settings.php:55
+msgid "Ajax Filter Job"
+msgstr ""
+
+#: includes/job/admin-settings.php:63
+msgid ""
+"Enable ajax filter and paging job "
+"listings."
+msgstr ""
+
+#: includes/job/admin-settings.php:69
+msgid "Job Related"
+msgstr ""
+
+#: includes/job/admin-settings.php:77
+msgid ""
+"Show related job on single job page."
+msgstr ""
+
+#: includes/job/admin-settings.php:83
+msgid "Job Company"
+msgstr ""
+
+#: includes/job/admin-settings.php:91
+msgid ""
+"Show company info on single job page."
+msgstr ""
+
+#: includes/job/admin-settings.php:97
+msgid "Job Related Number"
+msgstr ""
+
+#: includes/job/admin-settings.php:106
+msgid "Single Job Map"
+msgstr ""
+
+#: includes/job/admin-settings.php:115
+msgid ""
+"Show job location google maps on "
+"single job page."
+msgstr ""
+
+#: includes/job/admin-settings.php:124
+msgid "Job Posting"
+msgstr ""
+
+#: includes/job/admin-settings.php:129
+msgid "Post Job Page"
+msgstr ""
+
+#: includes/job/admin-settings.php:146
+msgid ""
+"Select a page with shortcode "
+"[job_submit_form]"
+msgstr ""
+
+#: includes/job/admin-settings.php:152
+msgid "Job Approval"
+msgstr ""
+
+#: includes/job/admin-settings.php:159
+msgid ""
+"Each newly submitted job needs the "
+"manual approval of Admin."
+msgstr ""
+
+#: includes/job/admin-settings.php:165
+msgid "Default Job Content"
+msgstr ""
+
+#: includes/job/admin-settings.php:167
+msgid ""
+"Default content that will auto "
+"populated when Employers post new "
+"Jobs."
+msgstr ""
+
+#: includes/job/admin-settings.php:172
+msgid ""
+"<h3>Job Description</h3><p>What is "
+"the job about? Enter the overall "
+"description of your job.</p>"
+msgstr ""
+
+#: includes/job/admin-settings.php:173
+msgid ""
+"<h3>Benefits</h3><ul><li>What can "
+"candidates get from the position?</"
+"li><li>What can candidates get from "
+"the position?</li><li>What can "
+"candidates get from the position?</"
+"li></ul>"
+msgstr ""
+
+#: includes/job/admin-settings.php:174
+msgid ""
+"<h3>Job Requirements</"
+"h3><ol><li>Detailed requirement for "
+"the vacancy.?</li><li>Detailed "
+"requirement for the vacancy.?</"
+"li><li>Detailed requirement for the "
+"vacancy.?</li></ol>"
+msgstr ""
+
+#: includes/job/admin-settings.php:175
+msgid ""
+"<h3>How To Apply</h3><p>How "
+"candidate can apply for your job. "
+"You can leave your contact "
+"information to receive hard copy "
+"application or any detailed guide "
+"for application.</p>"
+msgstr ""
+
+#: includes/job/admin-settings.php:193
+msgid "Job submission condition"
+msgstr ""
+
+#: includes/job/admin-settings.php:195
+msgid ""
+"The condition that employers must "
+"agree to before submitting a new "
+"job. Leave it blank for no condition."
+msgstr ""
+
+#: includes/job/admin-settings.php:200
+#, php-format
+msgid ""
+"Job seekers can find your job and "
+"contact you via email or %s "
+"regarding your application options. "
+"Preview all information thoroughly "
+"before submitting your job for "
+"approval."
+msgstr ""
+
+#: includes/job/admin-settings.php:214
+msgid ""
+"You can use this setting for "
+"limiting the number of jobs per "
+"employer."
+msgstr ""
+
+#: includes/job/admin-settings.php:220
+msgid "Job Duration (day)"
+msgstr ""
+
+#: includes/job/admin-settings.php:226
+msgid ""
+"You can use this setting for job "
+"duration."
+msgstr ""
+
+#: includes/job/admin-settings.php:232
+msgid "Featured Job Limit"
+msgstr ""
+
+#: includes/job/admin-settings.php:238
+msgid ""
+"You can use this setting for "
+"limiting the number of featured jobs "
+"per employer."
+msgstr ""
+
+#: includes/job/admin-settings.php:244
+msgid "Reset counter every"
+msgstr ""
+
+#: includes/job/admin-settings.php:248
+msgid "Month"
+msgstr ""
+
+#: includes/job/admin-settings.php:250
+msgid ""
+"Reset the counter will allow "
+"Employers to re-post jobs after "
+"using up the limitation. Input zero "
+"for no reset."
+msgstr ""
+
+#: includes/job/admin.php:38
+msgid "Jobs Page"
+msgstr ""
+
+#: includes/job/admin.php:60
+msgid ""
+"You are currently editing the page "
+"that shows all your jobs."
+msgstr ""
+
+#: includes/job/functions.php:88
+msgctxt "Job status"
+msgid "Inactive"
+msgstr ""
+
+#: includes/job/functions.php:89
+msgctxt "Job status"
+msgid "Pending Approval"
+msgstr ""
+
+#: includes/job/functions.php:91
+#: includes/job/init.php:101
+msgctxt "Job status"
+msgid "Expired"
+msgstr ""
+
+#: includes/job/functions.php:92
+msgctxt "Job status"
+msgid "Draft"
+msgstr ""
+
+#: includes/job/functions.php:114
+msgid "Publish"
+msgstr ""
+
+#: includes/job/functions.php:115
+msgid "Unpublish"
+msgstr ""
+
+#: includes/job/init.php:24
+msgid "Add New Job"
+msgstr ""
+
+#: includes/job/init.php:25
+msgid "Add Job"
+msgstr ""
+
+#: includes/job/init.php:28
+msgid "New Job"
+msgstr ""
+
+#: includes/job/init.php:30
+msgid "View Job"
+msgstr ""
+
+#: includes/job/init.php:31
+msgid "View Job Listings"
+msgstr ""
+
+#: includes/job/init.php:32
+#: templates/job/search-form.php:43
+msgid "Search Job"
+msgstr ""
+
+#: includes/job/init.php:33
+msgid "No Jobs found"
+msgstr ""
+
+#: includes/job/init.php:34
+msgid "No Jobs found in Trash"
+msgstr ""
+
+#: includes/job/init.php:35
+msgid "Parent Job"
+msgstr ""
+
+#: includes/job/init.php:36
+#: templates/member/manage-application.php:93
+msgid "All Jobs"
+msgstr ""
+
+#: includes/job/init.php:38
+msgid ""
+"This is a place where you can add "
+"new job."
+msgstr ""
+
+#: includes/job/init.php:61
+#: includes/job/job-default-fields.php:13
+msgid "Job Category"
+msgstr ""
+
+#: includes/job/init.php:62
+msgid "Add New Job Category"
+msgstr ""
+
+#: includes/job/init.php:63
+msgid "New Job Category"
+msgstr ""
+
+#: includes/job/init.php:67
+msgctxt "slug"
+msgid "job-category"
+msgstr ""
+
+#: includes/job/init.php:71
+#: includes/job/job-default-fields.php:27
+msgid "Job Type"
+msgstr ""
+
+#: includes/job/init.php:72
+msgid "Add New Job Type"
+msgstr ""
+
+#: includes/job/init.php:73
+msgid "New Job Type"
+msgstr ""
+
+#: includes/job/init.php:77
+msgctxt "slug"
+msgid "job-type"
+msgstr ""
+
+#: includes/job/init.php:81
+#: includes/job/job-default-fields.php:63
+msgid "Job Tag"
+msgstr ""
+
+#: includes/job/init.php:82
+msgid "Add New Job Tag"
+msgstr ""
+
+#: includes/job/init.php:83
+msgid "New Job Tag"
+msgstr ""
+
+#: includes/job/init.php:87
+msgctxt "slug"
+msgid "job-tag"
+msgstr ""
+
+#: includes/job/init.php:91
+#: includes/job/job-default-fields.php:39
+msgid "Job Location"
+msgstr ""
+
+#: includes/job/init.php:92
+msgid "Add New Job Location"
+msgstr ""
+
+#: includes/job/init.php:93
+msgid "New Job Location"
+msgstr ""
+
+#: includes/job/init.php:97
+msgctxt "slug"
+msgid "job-location"
+msgstr ""
+
+#: includes/job/init.php:106
+#, php-format
+msgid ""
+"Expired <span class=\"count\">(%s)</"
+"span>"
+msgid_plural ""
+"Expired <span class=\"count\">(%s)</"
+"span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/job/init.php:109
+msgctxt "Job status"
+msgid "Pending Payment"
+msgstr ""
+
+#: includes/job/init.php:114
+#, php-format
+msgid ""
+"Pending Payment <span class=\"count"
+"\">(%s)</span>"
+msgid_plural ""
+"Pending Payment <span class=\"count"
+"\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/job/job-apply-action.php:41
+msgid ""
+"Only candidates can apply for this "
+"job."
+msgstr ""
+
+#: includes/job/job-apply-action.php:44
+#: includes/job/job-apply-action.php:53
+#: includes/job/job-viewable.php:66
+msgid "Login as Candidate"
+msgstr ""
+
+#: includes/job/job-apply-action.php:48
+msgid ""
+"Only paid candidates can apply for "
+"this job."
+msgstr ""
+
+#: includes/job/job-apply-action.php:56
+#: includes/job/job-viewable.php:69
+msgid "Logout"
+msgstr ""
+
+#: includes/job/job-apply-action.php:58
+msgid ""
+"Your membership doesn't allow you to "
+"apply for this job."
+msgstr ""
+
+#: includes/job/job-apply-action.php:60
+msgid "Upgrade your membership"
+msgstr ""
+
+#: includes/job/job-apply-action.php:68
+msgid ""
+"You don't have permission to apply "
+"this job."
+msgstr ""
+
+#: includes/job/job-apply-resume-package.php:12
+msgid "Can apply for Job"
+msgstr ""
+
+#: includes/job/job-apply-resume-package.php:13
+msgid "Allow buyers to apply for jobs."
+msgstr ""
+
+#: includes/job/job-apply-resume-package.php:21
+msgid "Job apply limit"
+msgstr ""
+
+#: includes/job/job-apply-resume-package.php:22
+msgid ""
+"The maximum number of jobs this "
+"package allows candidates to apply, "
+"input -1 for unlimited."
+msgstr ""
+
+#: includes/job/job-apply-resume-package.php:100
+msgid "Apply for unlimited Jobs"
+msgstr ""
+
+#: includes/job/job-apply-resume-package.php:103
+#, php-format
+msgid "Apply for %d job"
+msgid_plural "Apply for %d jobs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/job/job-apply-resume-package.php:118
+msgid "Job Apply Limit"
+msgstr ""
+
+#: includes/job/job-custom-fields-package.php:40
+msgid "None"
+msgstr ""
+
+#: includes/job/job-custom-fields-package.php:41
+msgid "All fields"
+msgstr ""
+
+#: includes/job/job-custom-fields-package.php:52
+msgid "Job Custom Fields"
+msgstr ""
+
+#: includes/job/job-custom-fields-package.php:53
+msgid ""
+"Choose fields that come with this "
+"package"
+msgstr ""
+
+#: includes/job/job-custom-fields-package.php:121
+#, php-format
+msgid "Post job with %s"
+msgstr ""
+
+#: includes/job/job-custom-fields-package.php:125
+#, php-format
+msgid "No %s for Jobs"
+msgstr ""
+
+#: includes/job/job-custom-fields-package.php:150
+#, php-format
+msgid "Post with %s"
+msgstr ""
+
+#: includes/job/job-custom-fields-package.php:166
+msgid ""
+"Integrate Custom Field with Job "
+"Package"
+msgstr ""
+
+#: includes/job/job-custom-fields-package.php:172
+msgid ""
+"Enable this function and you can "
+"decide which fields employer can use "
+"with each Job Package"
+msgstr ""
+
+#: includes/job/job-custom-fields-package.php:177
+msgid "Fields to add to Job Package"
+msgstr ""
+
+#: includes/job/job-custom-fields-package.php:188
+#: includes/job/job-custom-fields.php:238
+msgid ""
+"Fields selected here will required "
+"buying specific Job Package. Please "
+"continue edit on Job Package "
+"Products."
+msgstr ""
+
+#: includes/job/job-custom-fields.php:24
+msgid "Publishing Date"
+msgstr ""
+
+#: includes/job/job-custom-fields.php:223
+msgid "Custom field include in search"
+msgstr ""
+
+#: includes/job/job-default-fields.php:19
+#: includes/job/job-default-fields.php:69
+#: includes/libs/custom-fields/custom-fields.php:13
+msgid "Multiple Select"
+msgstr ""
+
+#: includes/job/job-default-fields.php:20
+#: includes/job/job-default-fields.php:33
+#: includes/job/job-default-fields.php:70
+#: includes/libs/custom-fields/custom-fields.php:14
+msgid "Radio"
+msgstr ""
+
+#: includes/job/job-default-fields.php:21
+#: includes/job/job-default-fields.php:71
+#: includes/libs/custom-fields/custom-fields.php:15
+msgid "Checkbox"
+msgstr ""
+
+#: includes/job/job-default-fields.php:44
+msgid "Multiple Location with Input"
+msgstr ""
+
+#: includes/job/job-default-fields.php:45
+msgid "Multiple Location"
+msgstr ""
+
+#: includes/job/job-default-fields.php:46
+msgid "Single Location with Input"
+msgstr ""
+
+#: includes/job/job-default-fields.php:47
+msgid "Single Location"
+msgstr ""
+
+#: includes/job/job-default-fields.php:53
+msgid "Complete Address"
+msgstr ""
+
+#: includes/job/job-default-fields.php:57
+#: includes/job/job-default-fields.php:94
+#: includes/job/job-default-fields.php:105
+#: includes/libs/custom-fields/custom-fields.php:7
+#: includes/member/candidate-default-fields.php:10
+#: includes/member/company-default-fields.php:19
+msgid "Text"
+msgstr ""
+
+#: includes/job/job-default-fields.php:78
+msgid "Closing Date"
+msgstr ""
+
+#: includes/job/job-default-fields.php:79
+msgid ""
+"Set a date or leave blank to "
+"automatically use the Expired date"
+msgstr ""
+
+#: includes/job/job-default-fields.php:83
+#: includes/member/candidate-default-fields.php:50
+msgid "Date Picker"
+msgstr ""
+
+#: includes/job/job-default-fields.php:89
+msgid "Custom Application link"
+msgstr ""
+
+#: includes/job/job-default-fields.php:90
+msgid ""
+"Custom link to redirect job seekers "
+"to when applying for this job."
+msgstr ""
+
+#: includes/job/job-default-fields.php:100
+msgid "Notification Email"
+msgstr ""
+
+#: includes/job/job-default-fields.php:101
+msgid ""
+"Email to receive application "
+"notification. Leave it blank to use "
+"Employer's profile email."
+msgstr ""
+
+#: includes/job/job-posting-action.php:38
+#: includes/job/job-viewable.php:58
+#: templates/member/user-menu.php:27
+msgid "Login"
+msgstr ""
+
+#: includes/job/job-posting-action.php:48
+msgid "Package"
+msgstr ""
+
+#: includes/job/job-posting-action.php:63
+msgid "Job Detail"
+msgstr ""
+
+#: includes/job/job-posting-action.php:79
+msgid "Preview and Submit"
+msgstr ""
+
+#: includes/job/job-viewable.php:54
+msgid ""
+"Only logged in users can view job "
+"details."
+msgstr ""
+
+#: includes/job/job-viewable.php:63
+msgid ""
+"Only candidates can view this job."
+msgstr ""
+
+#: includes/job/job_location.php:46
+msgid "No results found"
+msgstr ""
+
+#: includes/job/job_location.php:50
+msgid "Query limit reached"
+msgstr ""
+
+#: includes/job/job_location.php:56
+#: includes/job/job_location.php:60
+#: includes/job/job_location.php:64
+#: includes/job/job_location.php:67
+msgid "Geocoding error"
+msgstr ""
+
+#: includes/job/job_location.php:210
+msgid "Add New Location"
+msgstr ""
+
+#: includes/job/job_location.php:214
+msgid "Enter new location"
+msgstr ""
+
+#: includes/job/job_location.php:216
+#: includes/libs/custom-fields/custom-fields.php:399
+msgid "Add"
+msgstr ""
+
+#: includes/job/job_type.php:8
+#: includes/job/job_type.php:64
+msgid "Color"
+msgstr ""
+
+#: includes/libs/custom-fields/custom-fields.php:8
+msgid "Number"
+msgstr ""
+
+#: includes/libs/custom-fields/custom-fields.php:10
+msgid "URL"
+msgstr ""
+
+#: includes/libs/custom-fields/custom-fields.php:16
+msgid "DatePicker"
+msgstr ""
+
+#: includes/libs/custom-fields/custom-fields.php:17
+msgid "Single Image"
+msgstr ""
+
+#: includes/libs/custom-fields/custom-fields.php:18
+msgid "Image Gallery"
+msgstr ""
+
+#: includes/libs/custom-fields/custom-fields.php:20
+msgid "Embedded Video"
+msgstr ""
+
+#: includes/libs/custom-fields/custom-fields.php:159
+msgid "Field Name"
+msgstr ""
+
+#: includes/libs/custom-fields/custom-fields.php:162
+#: includes/libs/custom-fields/custom-fields.php:275
+#: includes/libs/custom-fields/custom-fields.php:331
+msgid "Field Label"
+msgstr ""
+
+#: includes/libs/custom-fields/custom-fields.php:175
+#: includes/libs/custom-fields/custom-fields.php:368
+msgid "Field Value"
+msgstr ""
+
+#: includes/libs/custom-fields/custom-fields.php:189
+#: includes/libs/custom-fields/custom-fields.php:384
+msgid "Disable"
+msgstr ""
+
+#: includes/libs/custom-fields/custom-fields.php:190
+#: includes/libs/custom-fields/custom-fields.php:384
+msgid "Enable"
+msgstr ""
+
+#: includes/libs/custom-fields/custom-fields.php:267
+#: includes/libs/custom-fields/custom-fields.php:324
+msgid "Field Key"
+msgstr ""
+
+#: includes/libs/custom-fields/custom-fields.php:270
+msgid ""
+"The key used to save this field to "
+"database.<br/>Should only includes "
+"lower characters with no space."
+msgstr ""
+
+#: includes/libs/custom-fields/custom-fields.php:278
+msgid "Field Type"
+msgstr ""
+
+#: includes/libs/custom-fields/custom-fields.php:281
+msgid "Field Value/Params"
+msgstr ""
+
+#: includes/libs/custom-fields/custom-fields.php:283
+msgid ""
+"Default value or options for this "
+"field.<br/>\n"
+" - Text, Number or Textarea use this "
+"Value as placeholder<br/>\n"
+" - Select, multiple select, radio or "
+"checkbox generate the options from "
+"this Value using line break as "
+"separator. Sample options:<br/>\n"
+"\tvalue_1|Option 1<br/>\n"
+"\tOption 2 ( value can be "
+"obmitted )<br/>\n"
+"\tvalue_3|Option 3<br/>\n"
+" - Single Image or Image Gallery use "
+"this Value as the message text, for "
+"example: \"Recommend size: "
+"200x200px<br/>\n"
+" - File Upload uses this Value as "
+"the allowed file extensions. Eg: pdf,"
+"doc,docx"
+msgstr ""
+
+#: includes/libs/custom-fields/custom-fields.php:295
+msgid "Is Mandatory?"
+msgstr ""
+
+#: includes/libs/custom-fields/render-fields.php:170
+msgid "All"
+msgstr ""
+
+#: includes/libs/custom-fields/render-fields.php:226
+#, php-format
+msgid "Select %s"
+msgstr ""
+
+#: includes/libs/custom-fields/render-fields.php:226
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: includes/libs/custom-fields/render-fields.php:305
+msgid "Youtube or Vimeo link"
+msgstr ""
+
+#: includes/libs/custom-fields/social-fields.php:6
+msgid "Website"
+msgstr ""
+
+#: includes/libs/custom-fields/social-fields.php:10
+msgid "Facebook"
+msgstr ""
+
+#: includes/libs/custom-fields/social-fields.php:16
+msgid "Twitter"
+msgstr ""
+
+#: includes/libs/custom-fields/social-fields.php:21
+msgid "Instagram"
+msgstr ""
+
+#: includes/libs/custom-fields/social-fields.php:25
+msgid "Google+"
+msgstr ""
+
+#: includes/libs/custom-fields/social-fields.php:30
+msgid "LinkedIn"
+msgstr ""
+
+#: includes/libs/custom-fields/social-fields.php:40
+msgid "Pinterest"
+msgstr ""
+
+#: includes/libs/custom-fields/social-fields.php:46
+msgid "Youtube"
+msgstr ""
+
+#: includes/libs/custom-fields/social-fields.php:52
+msgid "Tumblr"
+msgstr ""
+
+#: includes/libs/custom-fields/social-fields.php:57
+msgid "Behance"
+msgstr ""
+
+#: includes/libs/custom-fields/social-fields.php:62
+msgid "Flickr"
+msgstr ""
+
+#: includes/libs/custom-fields/social-fields.php:66
+msgid "Vimeo"
+msgstr ""
+
+#: includes/libs/custom-fields/social-fields.php:71
+msgid "GitHub"
+msgstr ""
+
+#: includes/libs/custom-fields/social-fields.php:77
+msgid "VKontakte"
+msgstr ""
+
+#: includes/libs/meta-boxes/class-helper.php:109
+msgid "The Link"
+msgstr ""
+
+#: includes/libs/meta-boxes/class-helper.php:118
+msgid "M4V File URL"
+msgstr ""
+
+#: includes/libs/meta-boxes/class-helper.php:119
+msgid ""
+"Place the URL to your .m4v video "
+"file here."
+msgstr ""
+
+#: includes/libs/meta-boxes/class-helper.php:124
+msgid "OGV File URL"
+msgstr ""
+
+#: includes/libs/meta-boxes/class-helper.php:125
+msgid ""
+"Place the URL to your .ogv video "
+"file here."
+msgstr ""
+
+#: includes/libs/meta-boxes/class-helper.php:130
+#: includes/libs/meta-boxes/post-meta-boxes.php:77
+msgid "Video Aspect Ratio"
+msgstr ""
+
+#: includes/libs/meta-boxes/class-helper.php:131
+#: includes/libs/meta-boxes/post-meta-boxes.php:78
+msgid ""
+"Choose the aspect ratio for your "
+"video."
+msgstr ""
+
+#: includes/libs/meta-boxes/class-helper.php:144
+#: includes/libs/meta-boxes/post-meta-boxes.php:70
+msgid "Embedded Video Code"
+msgstr ""
+
+#: includes/libs/meta-boxes/class-helper.php:145
+msgid ""
+"If you are using something other "
+"than self hosted video (YouTube, "
+"Vimeo, etc.) paste the embed code "
+"here. This field will override the "
+"above settings."
+msgstr ""
+
+#: includes/libs/meta-boxes/generate-meta-box.php:114
+#: includes/libs/meta-boxes/generate-meta-box.php:184
+msgid "Edit Gallery"
+msgstr ""
+
+#: includes/libs/meta-boxes/generate-meta-box.php:114
+#: includes/libs/meta-boxes/generate-meta-box.php:197
+msgid "Add Images"
+msgstr ""
+
+#: includes/libs/meta-boxes/generate-meta-box.php:117
+msgid "Clear Gallery"
+msgstr ""
+
+#: includes/libs/meta-boxes/generate-meta-box.php:217
+#: includes/libs/meta-boxes/generate-meta-box.php:258
+msgid "Change File"
+msgstr ""
+
+#: includes/libs/meta-boxes/generate-meta-box.php:217
+#: includes/libs/meta-boxes/generate-meta-box.php:269
+msgid "Select File"
+msgstr ""
+
+#: includes/libs/meta-boxes/generate-meta-box.php:220
+msgid "Clear File"
+msgstr ""
+
+#: includes/libs/meta-boxes/generate-meta-box.php:241
+msgid "Select or Upload your File"
+msgstr ""
+
+#: includes/libs/meta-boxes/generate-meta-box.php:371
+#, php-format
+msgid "- Select %s -"
+msgstr ""
+
+#: includes/libs/meta-boxes/generate-meta-box.php:599
+msgid "Don't Need Menu"
+msgstr ""
+
+#: includes/libs/meta-boxes/generate-meta-box.php:614
+msgid "No User"
+msgstr ""
+
+#: includes/libs/meta-boxes/generate-meta-box.php:674
+msgid " - No Slider - "
+msgstr ""
+
+#: includes/libs/meta-boxes/page-meta-boxes.php:28
+msgid "Page Settings"
+msgstr ""
+
+#: includes/libs/meta-boxes/page-meta-boxes.php:29
+#: includes/libs/meta-boxes/product-meta-boxes.php:30
+msgid ""
+"Choose various setting for your Page."
+msgstr ""
+
+#: includes/libs/meta-boxes/page-meta-boxes.php:32
+#: includes/libs/meta-boxes/post-meta-boxes.php:153
+#: includes/libs/meta-boxes/product-meta-boxes.php:33
+msgid "Body Custom CSS Class"
+msgstr ""
+
+#: includes/libs/meta-boxes/page-meta-boxes.php:37
+msgid "Hide Page Title"
+msgstr ""
+
+#: includes/libs/meta-boxes/page-meta-boxes.php:46
+msgid "Heading Background Image"
+msgstr ""
+
+#: includes/libs/meta-boxes/page-meta-boxes.php:47
+msgid ""
+"An unique heading image for this page"
+msgstr ""
+
+#: includes/libs/meta-boxes/page-meta-boxes.php:162
+msgid "Sidebar"
+msgstr ""
+
+#: includes/libs/meta-boxes/page-meta-boxes.php:167
+msgid "Page Sidebar"
+msgstr ""
+
+#: includes/libs/meta-boxes/post-meta-boxes.php:28
+msgid "Gallery Settings"
+msgstr ""
+
+#: includes/libs/meta-boxes/post-meta-boxes.php:40
+#: includes/libs/meta-boxes/post-meta-boxes.php:93
+msgid "Preview Content"
+msgstr ""
+
+#: includes/libs/meta-boxes/post-meta-boxes.php:45
+#: includes/libs/meta-boxes/post-meta-boxes.php:99
+msgid "Featured Image"
+msgstr ""
+
+#: includes/libs/meta-boxes/post-meta-boxes.php:49
+msgid "First Image on Gallery"
+msgstr ""
+
+#: includes/libs/meta-boxes/post-meta-boxes.php:53
+msgid "Image Slideshow"
+msgstr ""
+
+#: includes/libs/meta-boxes/post-meta-boxes.php:66
+msgid "Video Settings"
+msgstr ""
+
+#: includes/libs/meta-boxes/post-meta-boxes.php:71
+msgid ""
+"If you are using videos from online "
+"sharing sites (YouTube, Vimeo, etc.) "
+"paste the embedded code here. This "
+"field will override the above "
+"settings."
+msgstr ""
+
+#: includes/libs/meta-boxes/post-meta-boxes.php:103
+msgid "Video"
+msgstr ""
+
+#: includes/libs/meta-boxes/post-meta-boxes.php:107
+msgid ""
+"Both (use Featured Image as "
+"Thumbnail for Video)"
+msgstr ""
+
+#: includes/libs/meta-boxes/post-meta-boxes.php:120
+msgid "Audio Settings"
+msgstr ""
+
+#: includes/libs/meta-boxes/post-meta-boxes.php:136
+msgid "Embedded Audio Code"
+msgstr ""
+
+#: includes/libs/meta-boxes/post-meta-boxes.php:137
+msgid ""
+"If you are using videos from online "
+"sharing sites (like Soundcloud) "
+"paste the embedded code here. This "
+"field will override above settings."
+msgstr ""
+
+#: includes/libs/meta-boxes/post-meta-boxes.php:149
+msgid "Page Settings: Single Post"
+msgstr ""
+
+#: includes/libs/meta-boxes/post-meta-boxes.php:150
+msgid ""
+"Choose various setting for your "
+"Single Post page."
+msgstr ""
+
+#: includes/libs/meta-boxes/post-meta-boxes.php:161
+#: includes/libs/meta-boxes/post-meta-boxes.php:174
+msgid "Page Layout"
+msgstr ""
+
+#: includes/libs/meta-boxes/post-meta-boxes.php:166
+msgid "Override Global Settings?"
+msgstr ""
+
+#: includes/libs/meta-boxes/post-meta-boxes.php:180
+msgid "Full-Width"
+msgstr ""
+
+#: includes/libs/meta-boxes/post-meta-boxes.php:184
+msgid "With Right Sidebar"
+msgstr ""
+
+#: includes/libs/meta-boxes/post-meta-boxes.php:188
+msgid "With Left Sidebar"
+msgstr ""
+
+#: includes/libs/meta-boxes/post-meta-boxes.php:194
+msgid "Post Sidebar"
+msgstr ""
+
+#: includes/libs/meta-boxes/product-meta-boxes.php:29
+msgid "Page Settings: Single Product"
+msgstr ""
+
+#: includes/libs/meta-boxes/testimonial-meta-box.php:12
+msgid "Testimonial options"
+msgstr ""
+
+#: includes/libs/meta-boxes/testimonial-meta-box.php:16
+msgid "Your Image"
+msgstr ""
+
+#: includes/libs/meta-boxes/testimonial-meta-box.php:21
+msgid "Your Name"
+msgstr ""
+
+#: includes/libs/meta-boxes/testimonial-meta-box.php:26
+msgid "Your Position"
+msgstr ""
+
+#: includes/member/action_control.php:15
+msgid "Employers"
+msgstr ""
+
+#: includes/member/action_control.php:19
+msgid "View Job Detail"
+msgstr ""
+
+#: includes/member/action_control.php:22
+#: includes/member/action_control.php:31
+msgid "Public"
+msgstr ""
+
+#: includes/member/action_control.php:23
+msgid "Logged-in Users"
+msgstr ""
+
+#: includes/member/action_control.php:24
+#: includes/member/action_control.php:32
+msgid "Candidates"
+msgstr ""
+
+#: includes/member/action_control.php:28
+msgid "Apply Job"
+msgstr ""
+
+#: includes/member/action_control.php:54
+msgid "Action Control"
+msgstr ""
+
+#: includes/member/action_control.php:67
+msgid "Action and Permissions"
+msgstr ""
+
+#: includes/member/action_control.php:68
+msgid ""
+"This page consists of setting "
+"related to the main actions of users "
+"on your site. Depending on the "
+"actions, you can select if the user "
+"is allowed freely or require "
+"purchasing the packages."
+msgstr ""
+
+#: includes/member/action_control.php:69
+msgid ""
+"With action requires buying "
+"packages, you will see proper "
+"settings on the package product edit "
+"page."
+msgstr ""
+
+#: includes/member/candidate-custom-fields.php:69
+#: includes/member/company-custom-fields.php:69
+msgid "Social Fields"
+msgstr ""
+
+#: includes/member/candidate-custom-fields.php:74
+#: includes/member/company-custom-fields.php:74
+msgid "Select Social Networks"
+msgstr ""
+
+#: includes/member/candidate-custom-fields.php:100
+#: includes/member/company-custom-fields.php:100
+msgid "Select social networks"
+msgstr ""
+
+#: includes/member/candidate-default-fields.php:7
+msgid "Full Name"
+msgstr ""
+
+#: includes/member/candidate-default-fields.php:29
+msgid "Current Job"
+msgstr ""
+
+#: includes/member/candidate-default-fields.php:38
+msgid "Current Company"
+msgstr ""
+
+#: includes/member/candidate-default-fields.php:47
+msgid "Birthday"
+msgstr ""
+
+#: includes/member/candidate-default-fields.php:58
+#: includes/member/company-default-fields.php:15
+msgid "Address"
+msgstr ""
+
+#: includes/member/candidate-default-fields.php:66
+msgid "Phone Number"
+msgstr ""
+
+#: includes/member/candidate-default-fields.php:74
+msgid "First Name"
+msgstr ""
+
+#: includes/member/candidate-default-fields.php:83
+msgid "Last Name"
+msgstr ""
+
+#: includes/member/company-custom-fields.php:43
+msgid "Company ( Employer )"
+msgstr ""
+
+#: includes/member/company-default-fields.php:7
+msgid "Company Logo"
+msgstr ""
+
+#: includes/member/company-default-fields.php:9
+#: templates/member/candidate_profile.php:65
+msgid "Recommend size: 160x160px"
+msgstr ""
+
+#: includes/member/functions.php:67
+msgid "Manage Jobs"
+msgstr ""
+
+#: includes/member/functions.php:74
+msgid "Edit job"
+msgstr ""
+
+#: includes/member/functions.php:81
+#: includes/member/functions.php:151
+msgid "Manage Applications"
+msgstr ""
+
+#: includes/member/functions.php:88
+#: templates/member/company_profile.php:26
+msgid "Company Profile"
+msgstr ""
+
+#: includes/member/functions.php:158
+msgid "Candidate Profile"
+msgstr ""
+
+#: includes/member/member-shortcode.php:180
+msgid "You can't edit this company"
+msgstr ""
+
+#: templates/employer/company-info.php:29
+msgid "Company infomation"
+msgstr ""
+
+#: templates/employer/company-jobs.php:38
+msgid "Jobs of company"
+msgstr ""
+
+#: templates/employer/company-map.php:37
+msgid "Company Map"
+msgstr ""
+
+#: templates/form/apply-form.php:49
+msgid "Name"
+msgstr ""
+
+#: templates/form/apply-form.php:84
+msgid "Send application"
+msgstr ""
+
+#: templates/form/job-preview.php:26
+msgid "Preview job"
+msgstr ""
+
+#: templates/form/job-submit.php:38
+msgid "Job Content"
+msgstr ""
+
+#: templates/form/login.php:40
+#: templates/form/register.php:30
+msgid "Username"
+msgstr ""
+
+#: templates/form/login.php:47
+#: templates/form/register.php:44
+msgid "Password"
+msgstr ""
+
+#: templates/form/login.php:70
+msgid "Remember Me"
+msgstr ""
+
+#: templates/form/login.php:75
+msgid "Sign In"
+msgstr ""
+
+#: templates/form/login.php:82
+msgid "Forgot Password?"
+msgstr ""
+
+#: templates/form/login.php:87
+#, php-format
+msgid ""
+"Don't have an account yet? <a href="
+"\"%s\" class=\"member-register-link"
+"\" >Register Now</a>"
+msgstr ""
+
+#: templates/form/register.php:51
+msgid "Repeat password"
+msgstr ""
+
+#: templates/form/register.php:61
+msgid "User role"
+msgstr ""
+
+#: templates/form/register.php:84
+msgid "Sign Up"
+msgstr ""
+
+#: templates/form/register.php:88
+msgid "By signing up, you agree to our"
+msgstr ""
+
+#: templates/form/register.php:90
+msgid "Terms of use"
+msgstr ""
+
+#: templates/form/register.php:95
+#, php-format
+msgid ""
+"Already have an account? <a href=\"%s"
+"\" class=\"member-login-link\" "
+">Login Now</a>"
+msgstr ""
+
+#: templates/form_field/datepicker_search.php:3
+msgid "Start Date"
+msgstr ""
+
+#: templates/form_field/datepicker_search.php:6
+msgid "End Date"
+msgstr ""
+
+#: templates/job/apply-button.php:29
+#: templates/job/apply-button.php:35
+msgid "Apply for this job"
+msgstr ""
+
+#: templates/job/job-fields.php:28
+msgid "Job infomation"
+msgstr ""
+
+#: templates/job/job-location-map.php:33
+msgid "Job Map"
+msgstr ""
+
+#: templates/job/loop/not-founds.php:14
+msgid "Job not found!"
+msgstr ""
+
+#: templates/job/related.php:33
+msgid "Related Jobs"
+msgstr ""
+
+#: templates/member/candidate_profile.php:24
+msgid "Change Profile"
+msgstr ""
+
+#: templates/member/candidate_profile.php:52
+msgid "Introduce Yourself"
+msgstr ""
+
+#: templates/member/candidate_profile.php:73
+msgid "Save My Profile"
+msgstr ""
+
+#: templates/member/company_profile.php:47
+msgid "Company Description"
+msgstr ""
+
+#: templates/member/company_profile.php:87
+msgid "Save"
+msgstr ""
+
+#: templates/member/manage-application-message.php:27
+#, php-format
+msgid "%s's Application"
+msgstr ""
+
+#: templates/member/manage-application-message.php:30
+msgid "Candidate Email: "
+msgstr ""
+
+#: templates/member/manage-application-message.php:33
+#: templates/member/manage-application-response.php:30
+msgid "Application Message: "
+msgstr ""
+
+#: templates/member/manage-application-response.php:23
+msgid "Employer's Message"
+msgstr ""
+
+#: templates/member/manage-application-response.php:26
+msgid "Title: "
+msgstr ""
+
+#: templates/member/manage-application-response.php:27
+msgid "Status: "
+msgstr ""
+
+#: templates/member/manage-application.php:69
+#, php-format
+msgid "You've received %s application"
+msgid_plural ""
+"You've received %s applications"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/member/manage-application.php:71
+msgid "You've received no application"
+msgstr ""
+
+#: templates/member/manage-application.php:80
+#: templates/member/manage-job.php:55
+msgid "Action:"
+msgstr ""
+
+#: templates/member/manage-application.php:82
+msgid "Bulk Actions"
+msgstr ""
+
+#: templates/member/manage-application.php:88
+#: templates/member/manage-application.php:99
+#: templates/member/manage-application.php:110
+#: templates/member/manage-job.php:63
+#: templates/member/manage-job.php:74
+msgid "Go"
+msgstr ""
+
+#: templates/member/manage-application.php:91
+#: templates/member/manage-application.php:102
+#: templates/member/manage-job.php:66
+msgid "Filter:"
+msgstr ""
+
+#: templates/member/manage-application.php:104
+#: templates/member/manage-job.php:68
+msgid "All Status"
+msgstr ""
+
+#: templates/member/manage-application.php:120
+#: templates/member/manage-job-applied.php:32
+msgid "Applied job"
+msgstr ""
+
+#: templates/member/manage-application.php:143
+msgid "Send Email"
+msgstr ""
+
+#: templates/member/manage-application.php:148
+msgid "View Cover Letter"
+msgstr ""
+
+#: templates/member/manage-application.php:155
+msgid "Applied date:"
+msgstr ""
+
+#: templates/member/manage-application.php:204
+#: templates/member/manage-application.php:215
+msgid "Approve Application"
+msgstr ""
+
+#: templates/member/manage-application.php:209
+#: templates/member/manage-application.php:219
+msgid "Reject Application"
+msgstr ""
+
+#: templates/member/manage-application.php:234
+msgid "No Applications"
+msgstr ""
+
+#: templates/member/manage-approve-reject.php:23
+msgid "Response Application"
+msgstr ""
+
+#: templates/member/manage-approve-reject.php:28
+msgid "Response to"
+msgstr ""
+
+#: templates/member/manage-job-applied.php:24
+#, php-format
+msgid "You've applied for %s job"
+msgid_plural ""
+"You've applied for %s jobs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/member/manage-job-applied.php:24
+msgid "You haven't applied for any job"
+msgstr ""
+
+#: templates/member/manage-job-applied.php:33
+msgid "Employer's message"
+msgstr ""
+
+#: templates/member/manage-job-applied.php:76
+msgid "Applied Date: "
+msgstr ""
+
+#: templates/member/manage-job-applied.php:87
+msgid "View message"
+msgstr ""
+
+#: templates/member/manage-job-applied.php:138
+msgid "Withdraw"
+msgstr ""
+
+#: templates/member/manage-job-applied.php:145
+msgid "Delete Application"
+msgstr ""
+
+#: templates/member/manage-job-applied.php:156
+msgid "No Applications."
+msgstr ""
+
+#: templates/member/manage-job.php:36
+#, php-format
+msgid "We found %s job"
+msgid_plural "We found %s jobs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/member/manage-job.php:38
+msgid "No jobs found"
+msgstr ""
+
+#: templates/member/manage-job.php:42
+msgid ""
+"Expired listings will be removed "
+"from public view."
+msgstr ""
+
+#: templates/member/manage-job.php:46
+#, php-format
+msgid ""
+"You can set %d more job to be "
+"featured. Featured jobs cannot be "
+"reverted."
+msgid_plural ""
+"You can set %d more jobs to be "
+"featured. Featured jobs cannot be "
+"reverted."
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/member/manage-job.php:57
+msgid "-Bulk Actions-"
+msgstr ""
+
+#: templates/member/manage-job.php:84
+msgid "Featured"
+msgstr ""
+
+#: templates/member/manage-job.php:85
+msgid "Apps"
+msgstr ""
+
+#: templates/member/manage-job.php:112
+#, php-format
+msgid "Notify email: %s"
+msgstr ""
+
+#: templates/member/manage-job.php:132
+msgid "Equal to expired date"
+msgstr ""
+
+#: templates/member/manage-job.php:170
+msgid "Unpublish Job"
+msgstr ""
+
+#: templates/member/manage-job.php:176
+msgid "Publish Job"
+msgstr ""
+
+#: templates/member/manage-job.php:193
+msgid "Expired Job"
+msgstr ""
+
+#: templates/member/manage-job.php:199
+msgid "Delete Job"
+msgstr ""
+
+#: templates/member/manage-job.php:211
+msgid "No job found."
+msgstr ""
+
+#: templates/member/update-email.php:27
+msgid "Change Email"
+msgstr ""
+
+#: templates/member/update-email.php:38
+msgid "Current Email"
+msgstr ""
+
+#: templates/member/update-email.php:45
+msgid "New Email"
+msgstr ""
+
+#: templates/member/update-email.php:52
+msgid "Confirm new email"
+msgstr ""
+
+#: templates/member/update-email.php:69
+msgid "Save New Email"
+msgstr ""
+
+#: templates/member/update-password.php:26
+msgid "Change Password"
+msgstr ""
+
+#: templates/member/update-password.php:37
+msgid "Current Password"
+msgstr ""
+
+#: templates/member/update-password.php:44
+msgid "New Password"
+msgstr ""
+
+#: templates/member/update-password.php:51
+msgid "Confirm new password"
+msgstr ""
+
+#: templates/member/update-password.php:68
+msgid "Save New Password"
+msgstr ""
+
+#: templates/member/user-menu.php:31
+msgid "Register"
+msgstr ""
+
+#: templates/member/user-menu.php:71
+msgid "Lougout"
+msgstr ""

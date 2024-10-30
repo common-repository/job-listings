@@ -1,0 +1,1 @@
+<textarea <?php echo $class; ?> id="<?php echo esc_attr($input_id)?>"  name="<?php echo esc_attr($field_id)?>" placeholder="<?php echo $field_value; ?>" rows="8"><?php echo esc_html($value); ?></textarea>

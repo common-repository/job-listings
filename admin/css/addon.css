@@ -1,0 +1,317 @@
+#JL_Addon {
+    font-family: "Open Sans", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    position: relative;
+}
+
+.clear_both {
+    clear: both;
+    display: block;
+}
+
+.jlt-dash-widget {
+    background: #fff;
+    width: 480px;
+    height: 310px;
+    overflow: hidden;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    display: block;
+    position: relative;
+}
+
+.jlt-dash-title-wrap {
+    line-height: 63px;
+    border-bottom: 1px solid #e5e5e5;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    padding: 0px 20px;
+}
+
+.jlt-dash-widget-inner {
+    padding: 30px 20px 20px;
+    position: relative;
+    max-height: 246px;
+    min-height: 246px;
+    width: 100%;
+    overflow: hidden;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 17px;
+    position: relative;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    color: #444;
+}
+
+.jlt-dash-bottom-wrapper {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    width: 100%;
+}
+
+.jlt-dash-title {
+    font-size: 16px;
+    line-height: 32px;
+    vertical-align: middle;
+    display: inline-block;
+    font-weight: 600;
+    position: relative;
+    z-index: 1;
+}
+
+.jlt-dash-strong-content {
+    font-weight: 600;
+    color: #000;
+}
+
+.jlt-dash-content-space {
+    display: block;
+    width: 100%;
+    height: 14px;
+}
+
+.jlt-status-red,
+.jlt-status-orange,
+.jlt-status-green,
+.jlt-status-neutral {
+    display: none
+}
+
+.jlt-dash-title-button {
+    font-weight: 600;
+    border-radius: 4px;
+    padding: 0px 15px;
+    line-height: 32px;
+    color: #fff;
+    font-size: 13px;
+    position: absolute;
+    right: 20px;
+    top: 16px;
+}
+
+.jlt-dash-title-button.jlt-status-orange {
+    background: #e67e22;
+}
+
+.jlt-dash-title-button.jlt-status-green,
+.jlt-dash-title-button.jlt-green {
+    background: #27ae60;
+}
+
+.jlt-status-green-wrap .jlt-status-green,
+.jlt-dash-title-button.jlt-green {
+    display: inline-block;
+}
+
+.jlt-dash-title-button.jlt-status-red,
+.jlt-dash-title-button.jlt-red {
+    background: #e74c3c;
+}
+
+.jlt-dash-button-gray,
+.jlt-dash-button {
+    box-shadow: none !important;
+    cursor: pointer;
+    border: none !important;
+    text-decoration: none !important;
+    background: #3498db;
+    border-radius: 4px;
+    color: #fff;
+    line-height: 40px;
+    padding: 0px 20px;
+    display: inline-block;
+    font-weight: 600;
+    font-size: 14px;
+    outline: none !important;
+}
+
+.jlt-dash-inverp-button,
+.jlt-dash-inverp-button:visited {
+    box-shadow: none !important;
+    cursor: pointer;
+    text-decoration: none !important;
+    border: 1px solid #3498db;
+    border-radius: 4px;
+    color: #3498db;
+    line-height: 23px;
+    padding: 0px 10px;
+    display: inline-block;
+    font-weight: 600;
+    font-size: 12px;
+    vertical-align: top;
+    outline: none !important;
+}
+
+.jlt-dash-inverp-button:hover {
+    background: #3498db;
+    color: #fff;
+}
+
+.jlt-dash-button-gray {
+    background: #dddddd;
+    cursor: default
+}
+
+.jlt-dash-button:hover,
+.jlt-dash-button:visited,
+.jlt-dash-button:focus {
+    color: #fff;
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.jlt-dash-button:hover {
+    background: #2c8ac8
+}
+.jlt-dash-button-gray:hover,
+.jlt-dash-button-gray:visited,
+.jlt-dash-button-gray:focus {
+    color: #fff;
+    background: #ddd;
+    outline: none !important;
+    box-shadow: none !important
+}
+.jlt-dash-button-rosybrown{
+    box-shadow: none !important;
+    cursor: pointer;
+    border: none !important;
+    text-decoration: none !important;
+    background: #a75151;
+    border-radius: 4px;
+    color: #fff;
+    line-height: 40px;
+    padding: 0px 20px;
+    display: inline-block;
+    font-weight: 600;
+    font-size: 14px;
+    outline: none !important;
+}
+.jlt-dash-button-rosybrown:hover,
+.jlt-dash-button-rosybrown:visited,
+.jlt-dash-button-rosybrown:focus {
+    color: #fff;
+    background: #ddd;
+    outline: none !important;
+    box-shadow: none !important
+}
+
+.jlt-dash-button.jlt-dash-icon-small {
+    padding: 8px 10px;
+    line-height: 100%;
+    font-size: 13px;
+    font-weight: 600;
+    font-family: "Open Sans", sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+.jlt-dash-bottom-wrapper span, .jlt-dash-bottom-wrapper a {
+    margin-right: 10px;
+}
+.icon-update-refresh,
+.icon-not-registered,
+.icon-no-problem-found,
+.icon-problem-found {
+    margin-right: 10px;
+    display: inline-block;
+    line-height: 20px;
+    width: 20px;
+    height: 20px;
+    background-position: center center;
+    vertical-align: middle;
+    background-repeat: no-repeat;
+}
+
+.icon-update-refresh {
+    background-image: url(../images/icon-update-refresh.png);
+    margin-top: -2px;
+}
+
+.icon-problem-found {
+    background-image: url(../images/icon-problem-found.png);
+}
+
+.icon-no-problem-found {
+    background-image: url(../images/icon-no-problem-found.png);
+    width: 14px;
+    height: 14px;
+    margin-top: -2px;
+}
+
+.icon-not-registered {
+    background-image: url(../images/icon-not-registered.png);
+    width: 16px;
+    height: 16px;
+    margin-top: -2px;
+}
+
+.jlt-dash-addons .jlt-dash-widget-inner {
+    padding-top: 20px;
+    max-height: 240px;
+    min-height: 240px
+}
+
+.jlt-dash-addons .jlt-dash-content-space {
+    height: 20px
+}
+
+.jlt-dash-addons .jlt-dash-version-info {
+    float: left;
+    width: 135px
+}
+
+.jlt-dash-addons .jlt-dash-content-space {
+    clear: both
+}
+
+.jlt-dash-addons .jlt-dash-margin-left-10 {
+    margin-left: 10px
+}
+
+.jlt-dash-addons .jlt-dash-title {
+    height: 32px
+}
+
+.jlt-dash-addons .jlt-dash-widget {
+    background-repeat: no-repeat;
+    background-position: bottom right
+}
+
+.jlt-dash-title-button {
+    display: none
+}
+
+.jlt-dash-deactivate-addon {
+    line-height: 32px;
+    right: 123px;
+    cursor: pointer;
+}
+
+.jlt-dash-deactivate-addon:hover {
+    background: #3498db
+}
+
+.jlt-reload-shop {
+    float: right;
+    margin-top: 11px;
+    text-decoration: none;
+    font-size: 14px;
+    display: inline-block;
+    border: 1px solid #3498db;
+    font-weight: 800;
+    text-transform: uppercase;
+    background: transparent;
+    padding: 1px 7px 2px 5px;
+    border-radius: 4px;
+    color: rgba(255, 255, 255, 0.35);
+    line-height: 25px;
+}
+
+a.jlt-reload-shop,
+.jlt-reload-shop i,
+.jlt-reload-shop i:before {
+    color: #3498db;
+}

@@ -1,0 +1,233 @@
+h2 small {
+    font-weight: normal;
+    line-height: 1;
+    font-size: 14px;
+}
+
+a.jlt-copyright {
+    text-decoration: none;
+    color: #47bfa9;
+}
+
+a.jlt-copyright:hover {
+    color: #369d8a;
+    border-bottom: 1px dotted #369d8a;
+}
+
+/* Admin Icons */
+#toplevel_page_customize div.wp-menu-image.dashicons-welcome-view-site:before {
+    color: #47bfa9; /* NOO Color */
+}
+
+#toplevel_page_customize .wp-menu-image img {
+    padding: 6px 0 0 0;
+    opacity: 0.9;
+    filter: alpha(opacity=0.9);
+}
+
+/* Image thumbnail */
+.jlt-thumb-wrapper img {
+    max-width: 120px;
+    max-height: 120px;
+    vertical-align: top;
+    margin: 15px 15px 0 0;
+}
+
+/* Fix form-field error with checkbox and radio field */
+.form-field input[type="checkbox"],
+.form-field input[type="radio"] {
+    width: 16px;
+}
+
+.form-field input[type="button"] {
+    width: auto;
+}
+
+.hide-option {
+    display: none !important;
+    opacity: 0 !important;
+    height: 0 !important;
+    padding: 0 !important;
+}
+
+/* NOO form */
+.jlt-form-body {
+    max-height: 540px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    padding-right: 15px;
+    padding-left: 5px;
+}
+
+.jlt-form-group {
+    margin-top: 20px;
+    line-height: 2em;
+}
+
+.jlt-form-group:before,
+.jlt-form-group:after {
+    content: " ";
+    display: table;
+}
+
+.bar-item-group .jlt-form-group,
+.bar-item-group hr {
+    margin-top: 10px;
+}
+
+.jlt-form-footer {
+    position: absolute;
+    bottom: 40px;
+    right: 35px;
+}
+
+.jlt-form-group:after {
+    clear: both;
+}
+
+.jlt-form-group + hr {
+    margin-top: 20px;
+}
+
+.jlt-form-group > label {
+    margin-top: 0;
+    margin-bottom: 0;
+    width: 30%;
+    max-width: 200px;
+    min-width: 150px;
+    top: 0;
+    float: left;
+    font-weight: bold;
+}
+
+.rtl .jlt-form-group > label {
+    float: right;
+}
+
+.jlt-form-group .jlt-control {
+    width: 65%;
+    float: left;
+}
+
+.jlt-form-group .field-desc {
+    font-weight: normal;
+}
+
+#side-sortables .jlt-form-group > label,
+#side-sortables .jlt-form-group .jlt-control {
+    width: 100%;
+    max-width: none;
+}
+
+.customize-control .jlt-control,
+.vc-shortcode-param .jlt-control {
+    width: 100%;
+    float: none;
+}
+
+.jlt-control input[type="button"] + input[type="button"] {
+    margin-left: 10px;
+}
+
+.jlt-control input[type="text"],
+.jlt-control textarea,
+.jlt-control select {
+    display: block;
+    width: 100%;
+    /* max-width: 600px; */
+}
+
+.jlt-control select[multiple] {
+    height: 150px;
+}
+
+.jlt-control input[type="radio"] {
+    margin: 1px 10px 0 0;
+}
+
+.jlt-control textarea {
+    height: 100px;
+}
+
+.jlt-control .wp-picker-container input[type="text"].jlt-color-picker {
+    display: inline-block;
+    width: 86px;
+    line-height: 24px;
+    height: 24px;
+    vertical-align: top;
+}
+
+.jlt-control .icon-selector input,
+.jlt-control .icon-selector a {
+    display: inline-block;
+    width: 45%;
+}
+
+.jlt-control input[type="text"].jlt-slider {
+    display: inline-block;
+    width: 20%;
+}
+
+.jlt-control .ui-slider.ui-slider-horizontal {
+    display: inline-block;
+    width: 75%;
+    margin-left: 3%;
+}
+
+.jlt-control small {
+    line-height: 15px;
+    display: block;
+    color: #888;
+}
+
+.jlt-control a > i {
+    margin-top: 3px;
+}
+
+.jlt-fontawesome-dialog {
+    text-decoration: none;
+}
+
+#TB_overlay {
+    z-index: 100000 !important;
+}
+
+#TB_window {
+    z-index: 100001 !important;
+}
+
+.jlt-setting-help em {
+    color: #CB4B16;
+}
+
+.user-googleplus-wrap,
+.user-twitter-wrap,
+.user-facebook-wrap {
+    display: none;
+}
+
+.jlt-setting-control {
+    width: 50%;
+}
+
+.jlt-admin-col-actions {
+    text-align: right !important;
+}
+
+.button-email-template {
+    cursor: pointer;
+    display: inline-block;
+    font-size: 1em !important;
+    height: 2em !important;
+    line-height: 2em !important;
+    margin: 0 0 2px 4px;
+    overflow: hidden;
+    padding: 0 !important;
+    width: 2em !important;
+}
+
+.button-email-template i {
+    line-height: 24px;
+    width: 26px;
+    height: 26px;
+}
